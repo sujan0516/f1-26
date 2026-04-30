@@ -1,9 +1,7 @@
-<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="AUT track outline">
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="AUT track layout">
   <rect width="1000" height="700" fill="transparent"/>
-  <path d="M 220 500 L 170 410 L 220 300 L 340 240 L 500 210 L 640 180 L 770 240 L 810 350 L 740 450 L 610 520 L 470 540 L 350 520 L 260 570 Z" fill="none" stroke="#111827" stroke-width="34" stroke-linejoin="round" stroke-linecap="round" opacity="0.95"/>
-  <path d="M 220 500 L 170 410 L 220 300 L 340 240 L 500 210 L 640 180 L 770 240 L 810 350 L 740 450 L 610 520 L 470 540 L 350 520 L 260 570 Z" fill="none" stroke="#ff2d55" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
-  <path d="M 220 500 L 170 410 L 220 300 L 340 240 L 500 210 L 640 180 L 770 240 L 810 350 L 740 450 L 610 520 L 470 540 L 350 520 L 260 570 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="0.75"/>
-  <line x1="177.0" y1="437.0" x2="213.0" y2="473.0" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="1"/>
-  <line x1="177.0" y1="473.0" x2="213.0" y2="437.0" stroke="#111827" stroke-width="4" stroke-linecap="round" opacity="1"/>
-  <text x="500" y="655" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ff2d55">AUT</text>
+  <path d="M214,496 C189,453 184,396 203,349 C226,293 271,248 326,222 C375,199 428,199 477,186 C537,171 584,134 647,135 C713,136 785,171 807,232 C826,284 804,344 771,387 C740,427 692,438 643,450 C593,462 549,482 518,527 C488,571 454,583 406,574 C338,562 258,572 224,509 C221,504 218,500 214,496 Z" fill="none" stroke="#0f172a" stroke-width="34" stroke-linejoin="round" stroke-linecap="round" opacity="0.98"/>
+  <path d="M214,496 C189,453 184,396 203,349 C226,293 271,248 326,222 C375,199 428,199 477,186 C537,171 584,134 647,135 C713,136 785,171 807,232 C826,284 804,344 771,387 C740,427 692,438 643,450 C593,462 549,482 518,527 C488,571 454,583 406,574 C338,562 258,572 224,509 C221,504 218,500 214,496 Z" fill="none" stroke="#ef4444" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M214,496 C189,453 184,396 203,349 C226,293 271,248 326,222 C375,199 428,199 477,186 C537,171 584,134 647,135 C713,136 785,171 807,232 C826,284 804,344 771,387 C740,427 692,438 643,450 C593,462 549,482 518,527 C488,571 454,583 406,574 C338,562 258,572 224,509 C221,504 218,500 214,496 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="0.75"/>
+  <text x="500" y="654" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ef4444">AUT</text>
 </svg>

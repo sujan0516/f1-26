@@ -1,9 +1,7 @@
-<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="QAT track outline">
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="QAT track layout">
   <rect width="1000" height="700" fill="transparent"/>
-  <path d="M 220 500 L 180 410 L 200 300 L 300 220 L 430 180 L 560 180 L 680 220 L 760 310 L 780 420 L 720 510 L 610 560 L 500 540 L 400 470 L 310 480 L 260 560 Z" fill="none" stroke="#111827" stroke-width="34" stroke-linejoin="round" stroke-linecap="round" opacity="0.95"/>
-  <path d="M 220 500 L 180 410 L 200 300 L 300 220 L 430 180 L 560 180 L 680 220 L 760 310 L 780 420 L 720 510 L 610 560 L 500 540 L 400 470 L 310 480 L 260 560 Z" fill="none" stroke="#ff2d55" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
-  <path d="M 220 500 L 180 410 L 200 300 L 300 220 L 430 180 L 560 180 L 680 220 L 760 310 L 780 420 L 720 510 L 610 560 L 500 540 L 400 470 L 310 480 L 260 560 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="0.75"/>
-  <line x1="182.0" y1="437.0" x2="218.0" y2="473.0" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="1"/>
-  <line x1="182.0" y1="473.0" x2="218.0" y2="437.0" stroke="#111827" stroke-width="4" stroke-linecap="round" opacity="1"/>
-  <text x="500" y="655" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ff2d55">QAT</text>
+  <path d="M219,500 C194,456 192,399 211,350 C234,290 278,239 333,208 C387,177 452,164 514,162 C573,160 636,164 689,193 C745,224 784,275 792,338 C799,393 778,449 741,488 C705,527 653,551 598,564 C544,577 486,582 432,572 C380,562 333,542 281,532 C251,526 234,525 219,500 Z" fill="none" stroke="#0f172a" stroke-width="34" stroke-linejoin="round" stroke-linecap="round" opacity="0.98"/>
+  <path d="M219,500 C194,456 192,399 211,350 C234,290 278,239 333,208 C387,177 452,164 514,162 C573,160 636,164 689,193 C745,224 784,275 792,338 C799,393 778,449 741,488 C705,527 653,551 598,564 C544,577 486,582 432,572 C380,562 333,542 281,532 C251,526 234,525 219,500 Z" fill="none" stroke="#ef4444" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M219,500 C194,456 192,399 211,350 C234,290 278,239 333,208 C387,177 452,164 514,162 C573,160 636,164 689,193 C745,224 784,275 792,338 C799,393 778,449 741,488 C705,527 653,551 598,564 C544,577 486,582 432,572 C380,562 333,542 281,532 C251,526 234,525 219,500 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="0.75"/>
+  <text x="500" y="654" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ef4444">QAT</text>
 </svg>
