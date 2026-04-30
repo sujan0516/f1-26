@@ -1,14 +1,9 @@
 <svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="JED track outline">
-<defs>
-  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-    <feGaussianBlur stdDeviation="6" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-</defs>
-  <path d="M 120 560 L 150 500 L 110 420 L 150 320 L 230 250 L 350 190 L 470 120 L 620 130 L 770 200 L 860 320 L 850 430 L 760 530 L 620 570 L 500 540 L 420 470 L 320 500 L 210 590 Z" fill="none" stroke="var(--accent)" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0.9"/>
-  <line x1="123.0" y1="518.0" x2="147.0" y2="542.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
-  <line x1="123.0" y1="542.0" x2="147.0" y2="518.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <rect width="1000" height="700" fill="transparent"/>
+  <path d="M 120 560 L 150 500 L 110 420 L 150 320 L 230 250 L 350 190 L 470 120 L 620 130 L 770 200 L 860 320 L 850 430 L 760 530 L 620 570 L 500 540 L 420 470 L 320 500 L 210 590 Z" fill="none" stroke="#111827" stroke-width="34" stroke-linejoin="round" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 120 560 L 150 500 L 110 420 L 150 320 L 230 250 L 350 190 L 470 120 L 620 130 L 770 200 L 860 320 L 850 430 L 760 530 L 620 570 L 500 540 L 420 470 L 320 500 L 210 590 Z" fill="none" stroke="#ff2d55" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M 120 560 L 150 500 L 110 420 L 150 320 L 230 250 L 350 190 L 470 120 L 620 130 L 770 200 L 860 320 L 850 430 L 760 530 L 620 570 L 500 540 L 420 470 L 320 500 L 210 590 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="0.75"/>
+  <line x1="117.0" y1="512.0" x2="153.0" y2="548.0" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="1"/>
+  <line x1="117.0" y1="548.0" x2="153.0" y2="512.0" stroke="#111827" stroke-width="4" stroke-linecap="round" opacity="1"/>
+  <text x="500" y="655" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ff2d55">JED</text>
 </svg>
