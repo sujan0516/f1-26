@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+app.log
+backups/
+scratch/
+app.py.bak
+index.html
+__MACOSX/
+*.log

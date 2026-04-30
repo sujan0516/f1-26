@@ -1,0 +1,5069 @@
+{
+  "TEAM_METRICS": {
+    "Mercedes": {
+      "pace": 98,
+      "reliability": 100,
+      "pitstop": 92
+    },
+    "Ferrari": {
+      "pace": 89,
+      "reliability": 95,
+      "pitstop": 84
+    },
+    "McLaren": {
+      "pace": 91,
+      "reliability": 42,
+      "pitstop": 90
+    },
+    "Haas": {
+      "pace": 72,
+      "reliability": 96,
+      "pitstop": 82
+    },
+    "Red Bull": {
+      "pace": 80,
+      "reliability": 55,
+      "pitstop": 88
+    },
+    "Racing Bulls": {
+      "pace": 74,
+      "reliability": 88,
+      "pitstop": 80
+    },
+    "Alpine": {
+      "pace": 70,
+      "reliability": 90,
+      "pitstop": 78
+    },
+    "Audi": {
+      "pace": 65,
+      "reliability": 72,
+      "pitstop": 75
+    },
+    "Williams": {
+      "pace": 67,
+      "reliability": 88,
+      "pitstop": 77
+    },
+    "Cadillac": {
+      "pace": 55,
+      "reliability": 80,
+      "pitstop": 70
+    },
+    "Aston Martin": {
+      "pace": 60,
+      "reliability": 82,
+      "pitstop": 74
+    }
+  },
+  "TEAM_ORDER": [
+    "Mercedes",
+    "Ferrari",
+    "McLaren",
+    "Red Bull",
+    "Racing Bulls",
+    "Haas",
+    "Alpine",
+    "Williams",
+    "Aston Martin",
+    "Audi",
+    "Cadillac"
+  ],
+  "DRIVER_DB": {
+    "George Russell": {
+      "number": 63,
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "age": 28,
+      "nat": "British",
+      "born": "1998-02-15",
+      "hometown": "King's Lynn, England",
+      "championships": 0,
+      "starts": 138,
+      "wins": 5,
+      "podiums": 26,
+      "poles": 7,
+      "fastestLaps": 9,
+      "points": 908,
+      "dnfs": 18,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 11,
+        "Collision": 5,
+        "Spin-off": 2
+      },
+      "penaltyDetail": {
+        "Note": "Clean licence entering 2026 \u2014 0 active superlicense points"
+      },
+      "bio": "George Russell joined Mercedes in 2022 after three seasons proving himself at Williams \u2014 often extracting top-10 finishes from a backmarker car. His first win came at the 2022 Brazilian GP when he subbed for Hamilton at Mercedes. By 2025 he had established himself as team leader, winning in Canada and Singapore en route to a career-high 9 podiums. The 2026 season, with its new active-aero regulations favouring Mercedes' approach, looks like his best shot at a maiden title.",
+      "teams": [
+        "Williams (2020\u20132021)",
+        "Mercedes (2022\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Mercedes",
+          "pos": "1st",
+          "pts": 51,
+          "wins": 1,
+          "pod": 2,
+          "poles": 2,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Mercedes",
+          "pos": "4th",
+          "pts": 245,
+          "wins": 2,
+          "pod": 9,
+          "poles": 3,
+          "dnf": 3,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Mercedes",
+          "pos": "6th",
+          "pts": 164,
+          "wins": 1,
+          "pod": 7,
+          "poles": 1,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2023,
+          "team": "Mercedes",
+          "pos": "8th",
+          "pts": 175,
+          "wins": 1,
+          "pod": 5,
+          "poles": 0,
+          "dnf": 3,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2022,
+          "team": "Mercedes",
+          "pos": "4th",
+          "pts": 275,
+          "wins": 1,
+          "pod": 6,
+          "poles": 0,
+          "dnf": 3,
+          "pen": 0,
+          "note": "1st Win \u2014 Brazil"
+        },
+        {
+          "year": 2021,
+          "team": "Williams",
+          "pos": "15th",
+          "pts": 16,
+          "wins": 0,
+          "pod": 1,
+          "poles": 1,
+          "dnf": 4,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2020,
+          "team": "Williams",
+          "pos": "12th",
+          "pts": 3,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 2,
+          "pen": 0,
+          "note": ""
+        }
+      ]
+    },
+    "Kimi Antonelli": {
+      "number": 12,
+      "flag": "\ud83c\uddee\ud83c\uddf9",
+      "age": 19,
+      "nat": "Italian",
+      "born": "2006-08-25",
+      "hometown": "Bologna, Italy",
+      "championships": 0,
+      "starts": 24,
+      "wins": 1,
+      "podiums": 5,
+      "poles": 2,
+      "fastestLaps": 1,
+      "points": 197,
+      "dnfs": 5,
+      "penaltyPts": 5,
+      "dnfBreakdown": {
+        "Collision": 3,
+        "Mechanical": 2
+      },
+      "penaltyDetail": {
+        "Austria 2025 \u2014 collision w/ Verstappen": 2,
+        "Dutch GP 2025 \u2014 collision w/ Leclerc": 2,
+        "Italian GP 2025 \u2014 erratic driving": 1
+      },
+      "bio": "At 19 years and 201 days, Kimi Antonelli became the youngest ever F1 GP pole-sitter at the 2026 Chinese GP \u2014 beating Vettel's 2008 record \u2014 then won the race and set the fastest lap to complete a hat-trick, becoming the second youngest GP winner in history (behind Verstappen's 2016 Spanish GP win at 18) and the first Italian winner since Fisichella at the 2006 Malaysian GP. In FP3 at the AUS season opener, Antonelli had a heavy crash that almost prevented him from qualifying \u2014 he recovered to qualify P2 and finish P2. Spotted by Mercedes in karting, he skipped Formula 3. His 2025 debut included a crash in FP1 at Monza but he still scored three podiums and a Sprint pole at Miami. His ceiling in F1 looks limitless.",
+      "teams": [
+        "Mercedes (2025\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Mercedes",
+          "pos": "2nd",
+          "pts": 47,
+          "wins": 1,
+          "pod": 2,
+          "poles": 1,
+          "dnf": 0,
+          "pen": 0,
+          "note": "Youngest ever GP pole-sitter; first F1 win China; FP3 crash in AUS"
+        },
+        {
+          "year": 2025,
+          "team": "Mercedes",
+          "pos": "7th",
+          "pts": 150,
+          "wins": 0,
+          "pod": 3,
+          "poles": 1,
+          "dnf": 3,
+          "pen": 5,
+          "note": "7th in WDC on debut; 3 podiums; infamous Monza practice crash"
+        }
+      ]
+    },
+    "Lewis Hamilton": {
+      "number": 44,
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "age": 40,
+      "nat": "British",
+      "born": "1985-01-07",
+      "hometown": "Stevenage, England",
+      "championships": 7,
+      "starts": 356,
+      "wins": 105,
+      "podiums": 197,
+      "poles": 104,
+      "fastestLaps": 67,
+      "points": 4831,
+      "dnfs": 44,
+      "penaltyPts": 3,
+      "dnfBreakdown": {
+        "Mechanical": 21,
+        "Collision": 16,
+        "Spin-off": 5,
+        "Safety": 2
+      },
+      "penaltyDetail": {
+        "Dutch GP 2025 \u2014 yellow flags pit entry": 2,
+        "Brazilian GP 2025 \u2014 collision w/ Colapinto": 1
+      },
+      "bio": "The most decorated driver in Formula 1 history with 7 World Championships and 105 wins. Hamilton joined Ferrari for 2026 in a move that shocked the world. His first Ferrari podium came in China (Race 2 of 2026), launching what many hope will be a final championship chapter. Dominant at Mercedes from 2014\u20132020, he lost the 2021 title in controversial circumstances at Abu Dhabi. A generational talent whose statistical legacy may never be surpassed.",
+      "teams": [
+        "McLaren (2007\u20132012)",
+        "Mercedes (2013\u20132025)",
+        "Ferrari (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Ferrari",
+          "pos": "4th",
+          "pts": 33,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "First Ferrari podium (CHN)"
+        },
+        {
+          "year": 2025,
+          "team": "Mercedes",
+          "pos": "7th",
+          "pts": 190,
+          "wins": 1,
+          "pod": 5,
+          "poles": 2,
+          "dnf": 4,
+          "pen": 1,
+          "note": "Final Mercedes season"
+        },
+        {
+          "year": 2024,
+          "team": "Mercedes",
+          "pos": "3rd",
+          "pts": 290,
+          "wins": 3,
+          "pod": 9,
+          "poles": 5,
+          "dnf": 3,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2023,
+          "team": "Mercedes",
+          "pos": "3rd",
+          "pts": 234,
+          "wins": 0,
+          "pod": 7,
+          "poles": 0,
+          "dnf": 2,
+          "pen": 0,
+          "note": "Zero wins season"
+        },
+        {
+          "year": 2022,
+          "team": "Mercedes",
+          "pos": "6th",
+          "pts": 240,
+          "wins": 1,
+          "pod": 9,
+          "poles": 5,
+          "dnf": 3,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2021,
+          "team": "Mercedes",
+          "pos": "2nd",
+          "pts": 387.5,
+          "wins": 8,
+          "pod": 17,
+          "poles": 5,
+          "dnf": 2,
+          "pen": 1,
+          "note": "Lost title Abu Dhabi"
+        },
+        {
+          "year": 2020,
+          "team": "Mercedes",
+          "pos": "1st",
+          "pts": 347,
+          "wins": 11,
+          "pod": 13,
+          "poles": 10,
+          "dnf": 1,
+          "pen": 0,
+          "note": "\ud83c\udfc6 7th Championship"
+        }
+      ]
+    },
+    "Charles Leclerc": {
+      "number": 16,
+      "flag": "\ud83c\uddf2\ud83c\udde8",
+      "age": 28,
+      "nat": "Monegasque",
+      "born": "1997-10-16",
+      "hometown": "Monte Carlo, Monaco",
+      "championships": 0,
+      "starts": 163,
+      "wins": 9,
+      "podiums": 38,
+      "poles": 27,
+      "fastestLaps": 8,
+      "points": 1083,
+      "dnfs": 28,
+      "penaltyPts": 1,
+      "dnfBreakdown": {
+        "Mechanical": 15,
+        "Collision": 9,
+        "Spin-off": 4
+      },
+      "penaltyDetail": {
+        "Hungarian GP 2025 \u2014 moving under braking": 1
+      },
+      "bio": "Charles Leclerc has been Ferrari's most naturally gifted driver since Schumacher. He became youngest Ferrari race winner and set a record 9 poles in 2022. Consistently fast in qualifying \u2014 the front row is his natural habitat. However, poor Ferrari strategy and reliability have denied him a title multiple times. With Hamilton now as teammate, 2026 will test whether he can lead Ferrari to its first constructors' title since 2008.",
+      "teams": [
+        "Sauber (2018)",
+        "Ferrari (2019\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Ferrari",
+          "pos": "3rd",
+          "pts": 34,
+          "wins": 0,
+          "pod": 2,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Ferrari",
+          "pos": "5th",
+          "pts": 221,
+          "wins": 2,
+          "pod": 8,
+          "poles": 4,
+          "dnf": 4,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Ferrari",
+          "pos": "2nd",
+          "pts": 356,
+          "wins": 4,
+          "pod": 13,
+          "poles": 9,
+          "dnf": 3,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2023,
+          "team": "Ferrari",
+          "pos": "5th",
+          "pts": 206,
+          "wins": 2,
+          "pod": 7,
+          "poles": 5,
+          "dnf": 3,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2022,
+          "team": "Ferrari",
+          "pos": "2nd",
+          "pts": 308,
+          "wins": 3,
+          "pod": 9,
+          "poles": 9,
+          "dnf": 7,
+          "pen": 1,
+          "note": "9 poles \u2014 mechanical DNFs"
+        },
+        {
+          "year": 2021,
+          "team": "Ferrari",
+          "pos": "7th",
+          "pts": 159,
+          "wins": 0,
+          "pod": 2,
+          "poles": 2,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        }
+      ]
+    },
+    "Max Verstappen": {
+      "number": 3,
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
+      "age": 28,
+      "nat": "Dutch",
+      "born": "1997-09-30",
+      "hometown": "Hasselt, Belgium",
+      "championships": 4,
+      "starts": 216,
+      "wins": 63,
+      "podiums": 112,
+      "poles": 48,
+      "fastestLaps": 31,
+      "points": 2865,
+      "dnfs": 36,
+      "penaltyPts": 3,
+      "dnfBreakdown": {
+        "Mechanical": 17,
+        "Collision": 14,
+        "Spin-off": 5
+      },
+      "penaltyDetail": {
+        "Spanish GP 2025 \u2014 collision w/ Russell": 3
+      },
+      "bio": "Four consecutive World Championships (2021\u20132024) put Verstappen in conversation with the all-time greats. His 2023 season \u2014 19 wins from 22 races \u2014 is statistically the greatest single season in F1 history. After losing the 2025 title to Norris by just 2 points, Verstappen switched his permanent number from #33 to #3 for 2026. He scored 8 points from P6 in Australia despite qualifying P20 after a crash, then DNS in China with Red Bull Ford PU reliability issues. Racing #3 for the first time.",
+      "teams": [
+        "Toro Rosso (2015)",
+        "Red Bull (2016\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Red Bull",
+          "pos": "8th",
+          "pts": 8,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 2,
+          "pen": 0,
+          "note": "Reliability crisis \u2014 0pts from R1+R2"
+        },
+        {
+          "year": 2025,
+          "team": "Red Bull",
+          "pos": "2nd",
+          "pts": 331,
+          "wins": 7,
+          "pod": 14,
+          "poles": 9,
+          "dnf": 3,
+          "pen": 1,
+          "note": "Runner-up to Norris"
+        },
+        {
+          "year": 2024,
+          "team": "Red Bull",
+          "pos": "1st",
+          "pts": 437,
+          "wins": 9,
+          "pod": 14,
+          "poles": 12,
+          "dnf": 2,
+          "pen": 0,
+          "note": "\ud83c\udfc6 4th Championship"
+        },
+        {
+          "year": 2023,
+          "team": "Red Bull",
+          "pos": "1st",
+          "pts": 575,
+          "wins": 19,
+          "pod": 21,
+          "poles": 12,
+          "dnf": 1,
+          "pen": 0,
+          "note": "\ud83c\udfc6 Record 19 wins"
+        },
+        {
+          "year": 2022,
+          "team": "Red Bull",
+          "pos": "1st",
+          "pts": 454,
+          "wins": 15,
+          "pod": 17,
+          "poles": 1,
+          "dnf": 4,
+          "pen": 0,
+          "note": "\ud83c\udfc6 2nd Championship"
+        },
+        {
+          "year": 2021,
+          "team": "Red Bull",
+          "pos": "1st",
+          "pts": 395.5,
+          "wins": 10,
+          "pod": 18,
+          "poles": 10,
+          "dnf": 2,
+          "pen": 2,
+          "note": "\ud83c\udfc6 1st Championship"
+        }
+      ]
+    },
+    "Lando Norris": {
+      "number": 1,
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "age": 25,
+      "nat": "British",
+      "born": "2000-11-13",
+      "hometown": "Bristol, England",
+      "championships": 1,
+      "starts": 143,
+      "wins": 8,
+      "podiums": 38,
+      "poles": 16,
+      "fastestLaps": 14,
+      "points": 1042,
+      "dnfs": 19,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 9,
+        "Collision": 7,
+        "Spin-off": 3
+      },
+      "penaltyDetail": {
+        "Note": "Clean licence entering 2026 \u2014 0 active superlicense points"
+      },
+      "bio": "2025 World Champion and now racing with the iconic #1 on his McLaren. Norris finally converted his undeniable speed into a title in a three-way battle with Verstappen and Piastri that went to the final lap of the season in Abu Dhabi. Famous for his raw pace and social media presence, he arrived at McLaren in 2019 as a 19-year-old and never left. His first win came at Miami 2024. In 2026 McLaren have suffered car-issue DNS failures in China \u2014 he sits P6 with 15 points after two rounds, a stunning fall from champion to midfield.",
+      "teams": [
+        "McLaren (2019\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "McLaren",
+          "pos": "6th",
+          "pts": 15,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "P6 AUS / DNS China (car issue on grid)"
+        },
+        {
+          "year": 2025,
+          "team": "McLaren",
+          "pos": "1st",
+          "pts": 377,
+          "wins": 6,
+          "pod": 16,
+          "poles": 8,
+          "dnf": 2,
+          "pen": 0,
+          "note": "\ud83c\udfc6 World Champion"
+        },
+        {
+          "year": 2024,
+          "team": "McLaren",
+          "pos": "2nd",
+          "pts": 374,
+          "wins": 4,
+          "pod": 13,
+          "poles": 5,
+          "dnf": 3,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2023,
+          "team": "McLaren",
+          "pos": "6th",
+          "pts": 205,
+          "wins": 0,
+          "pod": 7,
+          "poles": 2,
+          "dnf": 3,
+          "pen": 0,
+          "note": "McLaren recovery"
+        },
+        {
+          "year": 2022,
+          "team": "McLaren",
+          "pos": "7th",
+          "pts": 122,
+          "wins": 0,
+          "pod": 2,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2021,
+          "team": "McLaren",
+          "pos": "6th",
+          "pts": 160,
+          "wins": 0,
+          "pod": 5,
+          "poles": 1,
+          "dnf": 3,
+          "pen": 0,
+          "note": "Near-miss Sochi win"
+        }
+      ]
+    },
+    "Oscar Piastri": {
+      "number": 81,
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "age": 24,
+      "nat": "Australian",
+      "born": "2001-04-06",
+      "hometown": "Melbourne, Australia",
+      "championships": 0,
+      "starts": 70,
+      "wins": 6,
+      "podiums": 20,
+      "poles": 6,
+      "fastestLaps": 5,
+      "points": 488,
+      "dnfs": 12,
+      "penaltyPts": 4,
+      "dnfBreakdown": {
+        "Mechanical": 6,
+        "Collision": 4,
+        "DNS": 2
+      },
+      "penaltyDetail": {
+        "British GP 2025 \u2014 erratic braking under SC": 2,
+        "Brazilian GP 2025 \u2014 collision w/ Antonelli": 2
+      },
+      "bio": "Oscar Piastri arrived at McLaren in 2023 after Alpine controversially attempted to place him at Williams \u2014 the resulting contract dispute forced him to McLaren. He repaid their faith emphatically, winning his first race at Budapest 2024. In 2025 he was championship contender before narrowly losing out to Norris. In 2026 he suffered a DNS in China alongside Norris \u2014 the two cars had separate electrical issues with the Mercedes PU integration \u2014 leaving McLaren 80 points behind Mercedes after just 2 rounds. Both drivers had started in Australia.",
+      "teams": [
+        "McLaren (2023\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "McLaren",
+          "pos": "12th",
+          "pts": 3,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "P9 AUS / DNS China (car issue) \u2014 no race laps in CHN"
+        },
+        {
+          "year": 2025,
+          "team": "McLaren",
+          "pos": "3rd",
+          "pts": 302,
+          "wins": 5,
+          "pod": 13,
+          "poles": 4,
+          "dnf": 3,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "McLaren",
+          "pos": "4th",
+          "pts": 292,
+          "wins": 2,
+          "pod": 10,
+          "poles": 3,
+          "dnf": 4,
+          "pen": 1,
+          "note": "1st win \u2014 Hungary"
+        },
+        {
+          "year": 2023,
+          "team": "McLaren",
+          "pos": "8th",
+          "pts": 97,
+          "wins": 0,
+          "pod": 2,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 2,
+          "note": "Debut season"
+        }
+      ]
+    },
+    "Carlos Sainz": {
+      "number": 55,
+      "flag": "\ud83c\uddea\ud83c\uddf8",
+      "age": 30,
+      "nat": "Spanish",
+      "born": "1994-09-01",
+      "hometown": "Madrid, Spain",
+      "championships": 0,
+      "starts": 224,
+      "wins": 4,
+      "podiums": 29,
+      "poles": 6,
+      "fastestLaps": 13,
+      "points": 1173,
+      "dnfs": 32,
+      "penaltyPts": 4,
+      "dnfBreakdown": {
+        "Mechanical": 14,
+        "Collision": 11,
+        "Spin-off": 7
+      },
+      "penaltyDetail": {
+        "Bahrain GP 2025 \u2014 collision w/ Antonelli": 2,
+        "US GP 2025 \u2014 collision w/ Antonelli": 2
+      },
+      "bio": "Carlos Sainz is the ultimate professional \u2014 consistent, fast and a fierce qualifier. His four wins include a stunning 2024 Australian GP victory before Ferrari replaced him with Hamilton. Sainz moved to Williams for 2025 and immediately helped them achieve their best constructors' finish since 2017. Known for his 'El Plan' methodical approach and fierce determination, he remains one of the best drivers never to have won a championship.",
+      "teams": [
+        "Toro Rosso (2015\u20132017)",
+        "Renault (2017\u20132018)",
+        "McLaren (2019\u20132020)",
+        "Ferrari (2021\u20132025)",
+        "Williams (2025\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Williams",
+          "pos": "13th",
+          "pts": 2,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Williams",
+          "pos": "6th",
+          "pts": 212,
+          "wins": 1,
+          "pod": 6,
+          "poles": 2,
+          "dnf": 3,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Ferrari",
+          "pos": "5th",
+          "pts": 290,
+          "wins": 2,
+          "pod": 8,
+          "poles": 5,
+          "dnf": 3,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2023,
+          "team": "Ferrari",
+          "pos": "7th",
+          "pts": 200,
+          "wins": 2,
+          "pod": 7,
+          "poles": 1,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2022,
+          "team": "Ferrari",
+          "pos": "5th",
+          "pts": 246,
+          "wins": 1,
+          "pod": 9,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 1,
+          "note": ""
+        }
+      ]
+    },
+    "Fernando Alonso": {
+      "number": 14,
+      "flag": "\ud83c\uddea\ud83c\uddf8",
+      "age": 44,
+      "nat": "Spanish",
+      "born": "1981-07-29",
+      "hometown": "Oviedo, Spain",
+      "championships": 2,
+      "starts": 404,
+      "wins": 32,
+      "podiums": 106,
+      "poles": 22,
+      "fastestLaps": 23,
+      "points": 2198,
+      "dnfs": 68,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 34,
+        "Collision": 22,
+        "Spin-off": 8,
+        "Fire": 4
+      },
+      "penaltyDetail": {
+        "Note": "Clean licence entering 2026 \u2014 0 active superlicense points"
+      },
+      "bio": "The only two-time champion still racing. Fernando Alonso is a living legend \u2014 his duels with Schumacher, Hamilton and Vettel define an era of F1. He returned from a sabbatical in 2021 and has driven at a level that humiliates drivers half his age. Joined Aston Martin in 2023 but the Adrian Newey-era 2026 technical revolution has left Aston Martin completely off the pace. At 44, time may finally be catching up with one of the greatest racers who ever lived.",
+      "teams": [
+        "Various (2001\u20132018)",
+        "McLaren (2007)",
+        "Renault (2003\u20132006,2008\u20132009)",
+        "Ferrari (2010\u20132014)",
+        "Aston Martin (2023\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Aston Martin",
+          "pos": "22nd",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "Off-pace in 2026 regs"
+        },
+        {
+          "year": 2025,
+          "team": "Aston Martin",
+          "pos": "8th",
+          "pts": 162,
+          "wins": 0,
+          "pod": 3,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 1,
+          "note": "Newey arrival"
+        },
+        {
+          "year": 2024,
+          "team": "Aston Martin",
+          "pos": "5th",
+          "pts": 70,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 0,
+          "note": "Team regression"
+        },
+        {
+          "year": 2023,
+          "team": "Aston Martin",
+          "pos": "4th",
+          "pts": 206,
+          "wins": 0,
+          "pod": 8,
+          "poles": 0,
+          "dnf": 3,
+          "pen": 1,
+          "note": "Best return season"
+        }
+      ]
+    },
+    "Valtteri Bottas": {
+      "number": 77,
+      "flag": "\ud83c\uddeb\ud83c\uddee",
+      "age": 36,
+      "nat": "Finnish",
+      "born": "1989-08-28",
+      "hometown": "Nastola, Finland",
+      "championships": 0,
+      "starts": 248,
+      "wins": 10,
+      "podiums": 67,
+      "poles": 20,
+      "fastestLaps": 19,
+      "points": 1797,
+      "dnfs": 38,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 21,
+        "Collision": 12,
+        "Spin-off": 5
+      },
+      "penaltyDetail": {
+        "Note": "0 active points \u2014 not on grid in 2025; points expired"
+      },
+      "bio": "Valtteri Bottas served six seasons as Hamilton's wingman at Mercedes, accumulating 10 wins and 67 podiums but never a championship. Moved to Alfa Romeo/Sauber (2022\u20132024) where he scored regularly despite lesser machinery. Left on the shelf for 2025, he was signed by Cadillac for their F1 debut in 2026. At 36 and with an unbeatable contract with a new team, Bottas brings invaluable experience to help build a constructor from scratch.",
+      "teams": [
+        "Williams (2013\u20132016)",
+        "Mercedes (2017\u20132021)",
+        "Alfa Romeo/Sauber (2022\u20132024)",
+        "Cadillac (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Cadillac",
+          "pos": "20th",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "Debut with new team"
+        },
+        {
+          "year": 2024,
+          "team": "Sauber",
+          "pos": "12th",
+          "pts": 24,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2023,
+          "team": "Alfa Romeo",
+          "pos": "10th",
+          "pts": 27,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2022,
+          "team": "Alfa Romeo",
+          "pos": "11th",
+          "pts": 49,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2021,
+          "team": "Mercedes",
+          "pos": "3rd",
+          "pts": 226,
+          "wins": 2,
+          "pod": 9,
+          "poles": 3,
+          "dnf": 3,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2020,
+          "team": "Mercedes",
+          "pos": "2nd",
+          "pts": 223,
+          "wins": 2,
+          "pod": 12,
+          "poles": 4,
+          "dnf": 2,
+          "pen": 1,
+          "note": ""
+        }
+      ]
+    },
+    "Sergio P\u00e9rez": {
+      "number": 11,
+      "flag": "\ud83c\uddf2\ud83c\uddfd",
+      "age": 35,
+      "nat": "Mexican",
+      "born": "1990-01-26",
+      "hometown": "Guadalajara, Mexico",
+      "championships": 0,
+      "starts": 283,
+      "wins": 6,
+      "podiums": 39,
+      "poles": 3,
+      "fastestLaps": 14,
+      "points": 1500,
+      "dnfs": 48,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 22,
+        "Collision": 18,
+        "Spin-off": 8
+      },
+      "penaltyDetail": {
+        "Note": "0 active points \u2014 not on grid in 2025; all 2024 points expired"
+      },
+      "bio": "Known as 'The Minister of Defence', Sergio P\u00e9rez is one of the best tyre managers in F1 history. His six wins include back-to-back Monaco/Azerbaijan doubles. Six seasons at Force India/Racing Point established him as a midfield master before Red Bull signed him for 2021. His tenure ended acrimoniously in 2024 after a poor second half of the season. Now at Cadillac with Bottas, he is determined to restore his reputation on the global stage.",
+      "teams": [
+        "Sauber (2011\u20132013)",
+        "McLaren (2013)",
+        "Force India/Racing Point (2014\u20132020)",
+        "Red Bull (2021\u20132024)",
+        "Cadillac (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Cadillac",
+          "pos": "21st",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Red Bull",
+          "pos": "8th",
+          "pts": 152,
+          "wins": 0,
+          "pod": 2,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 1,
+          "note": "Contract terminated"
+        },
+        {
+          "year": 2023,
+          "team": "Red Bull",
+          "pos": "2nd",
+          "pts": 285,
+          "wins": 2,
+          "pod": 9,
+          "poles": 1,
+          "dnf": 3,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2022,
+          "team": "Red Bull",
+          "pos": "3rd",
+          "pts": 305,
+          "wins": 2,
+          "pod": 8,
+          "poles": 1,
+          "dnf": 5,
+          "pen": 1,
+          "note": ""
+        },
+        {
+          "year": 2021,
+          "team": "Red Bull",
+          "pos": "4th",
+          "pts": 190,
+          "wins": 2,
+          "pod": 7,
+          "poles": 1,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        }
+      ]
+    },
+    "Pierre Gasly": {
+      "number": 10,
+      "flag": "\ud83c\uddeb\ud83c\uddf7",
+      "age": 29,
+      "nat": "French",
+      "born": "1996-02-07",
+      "hometown": "Rouen, France",
+      "championships": 0,
+      "starts": 147,
+      "wins": 1,
+      "podiums": 4,
+      "poles": 0,
+      "fastestLaps": 5,
+      "points": 392,
+      "dnfs": 28,
+      "penaltyPts": 2,
+      "dnfBreakdown": {
+        "Mechanical": 12,
+        "Collision": 11,
+        "Spin-off": 5
+      },
+      "penaltyDetail": {
+        "Hungarian GP 2025 \u2014 collision w/ Sainz": 2
+      },
+      "bio": "Pierre Gasly's career has been a rollercoaster. Promoted to Red Bull in 2019 then demoted back to Toro Rosso after a poor start \u2014 he responded by winning at Monza 2020 in one of F1's most emotional victories. The Frenchman moved to Alpha Tauri and then Alpine in 2023, where he has been the team's sole points scorer. Now benefiting from Mercedes power in 2026, Alpine hope their new PU will unlock the speed Gasly clearly possesses.",
+      "teams": [
+        "Toro Rosso (2017\u20132018)",
+        "Red Bull (2019)",
+        "AlphaTauri (2019\u20132022)",
+        "Alpine (2023\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Alpine",
+          "pos": "7th",
+          "pts": 9,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Alpine",
+          "pos": "11th",
+          "pts": 86,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 1,
+          "note": "Team's sole scorer"
+        },
+        {
+          "year": 2024,
+          "team": "Alpine",
+          "pos": "9th",
+          "pts": 42,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 6,
+          "pen": 0,
+          "note": ""
+        }
+      ]
+    },
+    "Liam Lawson": {
+      "number": 30,
+      "flag": "\ud83c\uddf3\ud83c\uddff",
+      "age": 23,
+      "nat": "New Zealander",
+      "born": "2002-02-11",
+      "hometown": "Hastings, New Zealand",
+      "championships": 0,
+      "starts": 37,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "fastestLaps": 1,
+      "points": 21,
+      "dnfs": 7,
+      "penaltyPts": 6,
+      "dnfBreakdown": {
+        "Mechanical": 4,
+        "Collision": 3
+      },
+      "penaltyDetail": {
+        "Bahrain 2025 \u2014 collision w/ Stroll": 1,
+        "Bahrain 2025 \u2014 collision w/ Hulkenberg": 2,
+        "Miami 2025 \u2014 collision w/ Alonso": 1,
+        "Brazil 2025 \u2014 collision w/ Bearman": 1,
+        "Abu Dhabi 2025 \u2014 change of direction": 1
+      },
+      "bio": "Liam Lawson showed real grit in his substitute stints at Red Bull's junior team in 2023 and 2024 before getting a full-time seat at Racing Bulls in 2025. Passed over for a Red Bull promotion in favour of Hadjar despite performing well, he has channelled that disappointment into focused performances. Eighth in the 2026 standings after two races, matching Verstappen's points haul, is remarkable given the resources of each team.",
+      "teams": [
+        "AlphaTauri/Racing Bulls (2023\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Racing Bulls",
+          "pos": "9th",
+          "pts": 8,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Racing Bulls",
+          "pos": "13th",
+          "pts": 15,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 2,
+          "note": ""
+        }
+      ]
+    },
+    "Oliver Bearman": {
+      "number": 87,
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "age": 20,
+      "nat": "British",
+      "born": "2005-05-08",
+      "hometown": "Chelmsford, England",
+      "championships": 0,
+      "starts": 27,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 0,
+      "fastestLaps": 1,
+      "points": 39,
+      "dnfs": 4,
+      "penaltyPts": 10,
+      "dnfBreakdown": {
+        "Mechanical": 2,
+        "Collision": 2
+      },
+      "penaltyDetail": {
+        "Monaco 2025 \u2014 overtaking under red flags": 2,
+        "British GP 2025 \u2014 crashing under red flags": 4,
+        "Italian GP 2025 \u2014 collision w/ Sainz": 2,
+        "Brazilian GP 2025 sprint \u2014 collision w/ Lawson": 1,
+        "Abu Dhabi 2025 \u2014 change of direction": 1
+      },
+      "bio": "Oliver Bearman burst onto the scene with a stunning P7 on debut for Ferrari (subbing for Sainz at the 2024 Saudi Arabian GP) at just 18. He later subbed for Haas at Baku before earning a full-time seat there in 2025 \u2014 where he outscored teammate Ocon and showed raw race craft that excited Ferrari enough to retain his Academy ties. His fifth place in the 2026 standings after two races is the talk of the paddock.",
+      "teams": [
+        "Ferrari sub (2024)",
+        "Haas sub (2024)",
+        "Haas (2025\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Haas",
+          "pos": "5th",
+          "pts": 17,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "Outstanding start"
+        },
+        {
+          "year": 2025,
+          "team": "Haas",
+          "pos": "10th",
+          "pts": 22,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "dnf": 2,
+          "pen": 1,
+          "note": "Outscored Ocon"
+        },
+        {
+          "year": 2024,
+          "team": "Ferrari/Haas sub",
+          "pos": "\u2013",
+          "pts": 7,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 1,
+          "pen": 1,
+          "note": "Debut P7 Saudi GP"
+        }
+      ]
+    },
+    "Alexander Albon": {
+      "number": 23,
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "age": 28,
+      "nat": "Thai-British",
+      "born": "1996-03-23",
+      "hometown": "London, England",
+      "championships": 0,
+      "starts": 114,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "fastestLaps": 1,
+      "points": 298,
+      "dnfs": 22,
+      "penaltyPts": 3,
+      "dnfBreakdown": {
+        "Mechanical": 10,
+        "Collision": 9,
+        "Spin-off": 3
+      },
+      "penaltyDetail": {
+        "Azerbaijan GP 2025 \u2014 collision w/ Colapinto": 2,
+        "Las Vegas 2025 \u2014 collision w/ Hamilton": 1
+      },
+      "bio": "Alexander Albon had a promising Red Bull career cut short but rebuilt it patiently at Williams. By 2025 he had become the team's undisputed leader, finishing fifth in the constructors' standings alongside Sainz. Known for his ability to nurse tyres and extract unexpected results from difficult strategy positions, he is a fierce midfield racer who brings positive team culture wherever he goes.",
+      "teams": [
+        "Toro Rosso (2019)",
+        "Red Bull (2019\u20132020)",
+        "Williams (2022\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Williams",
+          "pos": "19th",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Williams",
+          "pos": "9th",
+          "pts": 82,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Williams",
+          "pos": "12th",
+          "pts": 6,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 6,
+          "pen": 1,
+          "note": ""
+        }
+      ]
+    },
+    "Nico H\u00fclkenberg": {
+      "number": 27,
+      "flag": "\ud83c\udde9\ud83c\uddea",
+      "age": 38,
+      "nat": "German",
+      "born": "1987-08-19",
+      "hometown": "Emmerich am Rhein, Germany",
+      "championships": 0,
+      "starts": 229,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 1,
+      "fastestLaps": 2,
+      "points": 551,
+      "dnfs": 41,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 18,
+        "Collision": 17,
+        "Spin-off": 6
+      },
+      "penaltyDetail": {
+        "Note": "Clean licence entering 2026 \u2014 2024 points fully expired"
+      },
+      "bio": "'The Hulk' is the most experienced driver on the grid never to have stood on the podium \u2014 until his landmark first podium at the 2025 British GP. H\u00fclkenberg was out of F1 entirely between 2019 and 2022 before Aston Martin and then Haas revived his career. Now at Audi for their works debut, he brings essential experience to help develop their new power unit through the inevitable teething troubles.",
+      "teams": [
+        "Various (2010\u20132019)",
+        "Aston Martin sub (2020)",
+        "Racing Point sub (2020)",
+        "Haas (2023\u20132025)",
+        "Audi (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Audi",
+          "pos": "18th",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Haas",
+          "pos": "12th",
+          "pts": 37,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 1,
+          "note": "1st Career Podium!"
+        },
+        {
+          "year": 2024,
+          "team": "Haas",
+          "pos": "8th",
+          "pts": 31,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 1,
+          "note": ""
+        }
+      ]
+    },
+    "Esteban Ocon": {
+      "number": 31,
+      "flag": "\ud83c\uddeb\ud83c\uddf7",
+      "age": 28,
+      "nat": "French",
+      "born": "1996-09-17",
+      "hometown": "Evreux, France",
+      "championships": 0,
+      "starts": 137,
+      "wins": 1,
+      "podiums": 3,
+      "poles": 0,
+      "fastestLaps": 1,
+      "points": 370,
+      "dnfs": 26,
+      "penaltyPts": 1,
+      "dnfBreakdown": {
+        "Mechanical": 11,
+        "Collision": 11,
+        "Spin-off": 4
+      },
+      "penaltyDetail": {
+        "Italian GP 2025 \u2014 forcing driver off track": 1
+      },
+      "bio": "Esteban Ocon won the 2021 Hungarian GP in chaotic conditions \u2014 his only F1 victory. After five seasons at Alpine (where he and Alonso famously clashed) he moved to Haas in 2025 but was comprehensively outperformed by rookie Bearman. Now in his second Haas season, he needs to reassert himself before his seat comes under further pressure.",
+      "teams": [
+        "Force India/Racing Point (2017\u20132020)",
+        "Alpine (2021\u20132024)",
+        "Haas (2025\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Haas",
+          "pos": "17th",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Haas",
+          "pos": "15th",
+          "pts": 5,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 6,
+          "pen": 1,
+          "note": "Outscored by Bearman"
+        },
+        {
+          "year": 2024,
+          "team": "Alpine",
+          "pos": "13th",
+          "pts": 23,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 7,
+          "pen": 0,
+          "note": ""
+        }
+      ]
+    },
+    "Lance Stroll": {
+      "number": 18,
+      "flag": "\ud83c\udde8\ud83c\udde6",
+      "age": 27,
+      "nat": "Canadian",
+      "born": "1998-10-29",
+      "hometown": "Montreal, Canada",
+      "championships": 0,
+      "starts": 182,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 1,
+      "fastestLaps": 0,
+      "points": 275,
+      "dnfs": 35,
+      "penaltyPts": 6,
+      "dnfBreakdown": {
+        "Mechanical": 13,
+        "Collision": 16,
+        "Spin-off": 6
+      },
+      "penaltyDetail": {
+        "Monaco 2025 \u2014 collision w/ Leclerc (practice)": 1,
+        "Canadian GP 2025 \u2014 forcing Gasly off track": 2,
+        "US GP 2025 sprint \u2014 collision w/ Ocon": 2,
+        "Abu Dhabi 2025 \u2014 change of direction": 1
+      },
+      "bio": "Lance Stroll drives for his father's team and has survived sustained criticism to remain in F1 for nine seasons. He has shown genuine speed on occasion \u2014 a stunning pole at Istanbul 2020 and two wet-weather podiums highlight his capability in atypical conditions. However, his consistency remains well below his illustrious teammates and the team's technical talent. 2026 with its new regulations has left Aston Martin completely off the pace.",
+      "teams": [
+        "Williams (2017\u20132018)",
+        "Racing Point/Aston Martin (2019\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Aston Martin",
+          "pos": "23rd",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Aston Martin",
+          "pos": "16th",
+          "pts": 24,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 6,
+          "pen": 2,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Aston Martin",
+          "pos": "15th",
+          "pts": 24,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 5,
+          "pen": 2,
+          "note": ""
+        }
+      ]
+    },
+    "Yuki Tsunoda": {
+      "number": 22,
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "age": 25,
+      "nat": "Japanese",
+      "born": "2000-05-11",
+      "hometown": "Sagamihara, Japan",
+      "championships": 0,
+      "starts": 114,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 0,
+      "fastestLaps": 2,
+      "points": 168,
+      "dnfs": 21,
+      "penaltyPts": 8,
+      "dnfBreakdown": {
+        "Mechanical": 9,
+        "Collision": 9,
+        "Spin-off": 3
+      },
+      "penaltyDetail": {
+        "Canadian GP 2025 \u2014 overtaking under red flags": 2,
+        "Austrian GP 2025 \u2014 collision w/ Colapinto": 2,
+        "British GP 2025 \u2014 clash with Bearman": 1,
+        "Brazilian GP 2025 \u2014 collision w/ Stroll": 2,
+        "Abu Dhabi 2025 \u2014 change of direction": 1
+      },
+      "bio": "Yuki Tsunoda is the first Japanese driver to race in F1 since Kamui Kobayashi. Fiery on radio and rapid on track \u2014 he has matured considerably since his crash-heavy rookie season in 2021. Moved to Red Bull for 2026 replacing Hadjar but has yet to score points as Red Bull Ford Powertrains DM01 reliability issues have hampered the team. Notably, he now races with the Red Bull Ford PU rather than Honda \u2014 with whom he shared a nationality \u2014 as Honda switched exclusively to power Aston Martin in 2026.",
+      "teams": [
+        "AlphaTauri/RB (2021\u20132025)",
+        "Red Bull (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Red Bull",
+          "pos": "16th",
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 1,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "RB",
+          "pos": "14th",
+          "pts": 30,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 6,
+          "pen": 2,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "RB",
+          "pos": "11th",
+          "pts": 22,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 6,
+          "pen": 3,
+          "note": ""
+        }
+      ]
+    },
+    "Gabriel Bortoleto": {
+      "number": 5,
+      "flag": "\ud83c\udde7\ud83c\uddf7",
+      "age": 20,
+      "nat": "Brazilian",
+      "born": "2004-10-14",
+      "hometown": "S\u00e3o Paulo, Brazil",
+      "championships": 0,
+      "starts": 26,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "fastestLaps": 0,
+      "points": 6,
+      "dnfs": 5,
+      "penaltyPts": 2,
+      "dnfBreakdown": {
+        "Mechanical": 3,
+        "Collision": 2
+      },
+      "penaltyDetail": {
+        "Las Vegas GP 2025 \u2014 collision w/ Stroll": 2
+      },
+      "bio": "Gabriel Bortoleto won the 2024 Formula 2 championship as McLaren junior driver, then was controversially loaned to Audi for 2025 where he performed well in a backmarker. The 2026 Audi \u2014 with a new works PU \u2014 has continued to struggle but Bortoleto is regarded as one of the highest-ceiling young talents in the sport. A future McLaren seat is the goal.",
+      "teams": [
+        "Audi (2025\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Audi",
+          "pos": "14th",
+          "pts": 2,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 1,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Sauber/Audi",
+          "pos": "18th",
+          "pts": 4,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 4,
+          "pen": 2,
+          "note": "Rookie season"
+        }
+      ]
+    },
+    "Franco Colapinto": {
+      "number": 43,
+      "flag": "\ud83c\udde6\ud83c\uddf7",
+      "age": 21,
+      "nat": "Argentine",
+      "born": "2003-05-27",
+      "hometown": "Buenos Aires, Argentina",
+      "championships": 0,
+      "starts": 20,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "fastestLaps": 0,
+      "points": 13,
+      "dnfs": 4,
+      "penaltyPts": 1,
+      "dnfBreakdown": {
+        "Mechanical": 2,
+        "Collision": 2
+      },
+      "penaltyDetail": {
+        "Austrian GP 2025 \u2014 forcing Piastri off while being lapped": 1
+      },
+      "bio": "Franco Colapinto burst into F1 mid-2024 at Williams as a Sargeant replacement and immediately impressed \u2014 scoring points in his debut races. Moved to Alpine for 2025 mid-season, replacing Doohan, he brings Latin flair to a French team. Argentina's first F1 driver in years, his passionate fanbase is enormous. His 2026 campaign at Alpine with Mercedes power will define whether his early promise translates into a long-term seat.",
+      "teams": [
+        "Williams sub (2024)",
+        "Alpine (2025\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Alpine",
+          "pos": "15th",
+          "pts": 1,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "team": "Alpine",
+          "pos": "17th",
+          "pts": 5,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 3,
+          "pen": 2,
+          "note": ""
+        },
+        {
+          "year": 2024,
+          "team": "Williams sub",
+          "pos": "19th",
+          "pts": 5,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 1,
+          "pen": 3,
+          "note": "Debut mid-season"
+        }
+      ]
+    },
+    "Isack Hadjar": {
+      "number": 6,
+      "flag": "\ud83c\uddeb\ud83c\uddf7",
+      "age": 20,
+      "nat": "French",
+      "born": "2004-09-28",
+      "hometown": "Paris, France",
+      "championships": 0,
+      "starts": 26,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 0,
+      "fastestLaps": 0,
+      "points": 38,
+      "dnfs": 4,
+      "penaltyPts": 0,
+      "dnfBreakdown": {
+        "Mechanical": 2,
+        "Collision": 2
+      },
+      "penaltyDetail": {
+        "Note": "Clean licence entering 2026 \u2014 0 active superlicense points"
+      },
+      "bio": "Isack Hadjar spent 2025 at Racing Bulls after winning the 2024 F2 title, gaining podium experience at Zandvoort. Promoted to Red Bull for 2026 \u2014 arguably the biggest opportunity in F1 for a 20-year-old. His 4 points from the opening two rounds (vs Verstappen's 8 from better fortune) suggest he is not overawed by the occasion. The French-Algerian driver is widely considered the brightest talent from the junior ranks.",
+      "teams": [
+        "Racing Bulls (2025)",
+        "Red Bull (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Red Bull",
+          "pos": "11th",
+          "pts": 4,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "Debut at Red Bull \u2014 4pts from two races"
+        },
+        {
+          "year": 2025,
+          "team": "Racing Bulls",
+          "pos": "15th",
+          "pts": 34,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "dnf": 3,
+          "pen": 2,
+          "note": "Zandvoort podium"
+        }
+      ]
+    },
+    "Arvid Lindblad": {
+      "number": 41,
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "age": 18,
+      "nat": "British-Swedish",
+      "born": "2007-06-01",
+      "hometown": "Stockholm, Sweden",
+      "championships": 0,
+      "starts": 2,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "fastestLaps": 0,
+      "points": 4,
+      "dnfs": 0,
+      "penaltyPts": 0,
+      "dnfBreakdown": {},
+      "penaltyDetail": {},
+      "bio": "Arvid Lindblad is 2026's only true rookie \u2014 jumping straight from Formula 2 (which he hadn't even completed) to F1 at 18 years old. Red Bull Academy's biggest bet. The British-Swedish driver is described by Red Bull's youth programme as having the highest natural talent they've seen since Max Verstappen. His 4 points from the first two races, matching veterans in faster machinery, hint that the hype may be entirely justified.",
+      "teams": [
+        "Racing Bulls (2026\u2013present)"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "team": "Racing Bulls",
+          "pos": "10th",
+          "pts": 4,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "dnf": 0,
+          "pen": 0,
+          "note": "Debut at Racing Bulls \u2014 equalling Red Bull's tally"
+        }
+      ]
+    }
+  },
+  "FB_DRIVERS": [
+    {
+      "pos": 1,
+      "name": "George Russell",
+      "team": "Mercedes",
+      "pts": 51
+    },
+    {
+      "pos": 2,
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "pts": 47
+    },
+    {
+      "pos": 3,
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "pts": 34
+    },
+    {
+      "pos": 4,
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "pts": 33
+    },
+    {
+      "pos": 5,
+      "name": "Oliver Bearman",
+      "team": "Haas",
+      "pts": 17
+    },
+    {
+      "pos": 6,
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "pts": 15
+    },
+    {
+      "pos": 7,
+      "name": "Pierre Gasly",
+      "team": "Alpine",
+      "pts": 9
+    },
+    {
+      "pos": 8,
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "pts": 8
+    },
+    {
+      "pos": 9,
+      "name": "Liam Lawson",
+      "team": "Racing Bulls",
+      "pts": 8
+    },
+    {
+      "pos": 10,
+      "name": "Arvid Lindblad",
+      "team": "Racing Bulls",
+      "pts": 4
+    },
+    {
+      "pos": 11,
+      "name": "Isack Hadjar",
+      "team": "Red Bull",
+      "pts": 4
+    },
+    {
+      "pos": 12,
+      "name": "Oscar Piastri",
+      "team": "McLaren",
+      "pts": 3
+    },
+    {
+      "pos": 13,
+      "name": "Carlos Sainz",
+      "team": "Williams",
+      "pts": 2
+    },
+    {
+      "pos": 14,
+      "name": "Gabriel Bortoleto",
+      "team": "Audi",
+      "pts": 2
+    },
+    {
+      "pos": 15,
+      "name": "Franco Colapinto",
+      "team": "Alpine",
+      "pts": 1
+    },
+    {
+      "pos": 16,
+      "name": "Yuki Tsunoda",
+      "team": "Red Bull",
+      "pts": 0
+    },
+    {
+      "pos": 17,
+      "name": "Esteban Ocon",
+      "team": "Haas",
+      "pts": 0
+    },
+    {
+      "pos": 18,
+      "name": "Nico H\u00fclkenberg",
+      "team": "Audi",
+      "pts": 0
+    },
+    {
+      "pos": 19,
+      "name": "Alexander Albon",
+      "team": "Williams",
+      "pts": 0
+    },
+    {
+      "pos": 20,
+      "name": "Valtteri Bottas",
+      "team": "Cadillac",
+      "pts": 0
+    },
+    {
+      "pos": 21,
+      "name": "Sergio P\u00e9rez",
+      "team": "Cadillac",
+      "pts": 0
+    },
+    {
+      "pos": 22,
+      "name": "Fernando Alonso",
+      "team": "Aston Martin",
+      "pts": 0
+    },
+    {
+      "pos": 23,
+      "name": "Lance Stroll",
+      "team": "Aston Martin",
+      "pts": 0
+    }
+  ],
+  "FB_CONSTRUCTORS": [
+    {
+      "pos": 1,
+      "name": "Mercedes",
+      "pts": 98
+    },
+    {
+      "pos": 2,
+      "name": "Ferrari",
+      "pts": 67
+    },
+    {
+      "pos": 3,
+      "name": "McLaren",
+      "pts": 18
+    },
+    {
+      "pos": 4,
+      "name": "Haas",
+      "pts": 17
+    },
+    {
+      "pos": 5,
+      "name": "Red Bull",
+      "pts": 12
+    },
+    {
+      "pos": 6,
+      "name": "Racing Bulls",
+      "pts": 12
+    },
+    {
+      "pos": 7,
+      "name": "Alpine",
+      "pts": 10
+    },
+    {
+      "pos": 8,
+      "name": "Audi",
+      "pts": 2
+    },
+    {
+      "pos": 9,
+      "name": "Williams",
+      "pts": 2
+    },
+    {
+      "pos": 10,
+      "name": "Cadillac",
+      "pts": 0
+    },
+    {
+      "pos": 11,
+      "name": "Aston Martin",
+      "pts": 0
+    }
+  ],
+  "RACE_SCHEDULE": [
+    {
+      "n": "AUS",
+      "f": "Australian GP",
+      "done": true
+    },
+    {
+      "n": "CHN",
+      "f": "Chinese GP",
+      "done": true,
+      "sprint": true
+    },
+    {
+      "n": "JPN",
+      "f": "Japanese GP",
+      "done": true
+    },
+    {
+      "n": "BAH",
+      "f": "Bahrain GP",
+      "canc": true
+    },
+    {
+      "n": "SAU",
+      "f": "Saudi Arabian GP",
+      "canc": true
+    },
+    {
+      "n": "MIA",
+      "f": "Miami GP",
+      "next": true,
+      "sprint": true
+    },
+    {
+      "n": "CAN",
+      "f": "Canadian GP",
+      "sprint": true
+    },
+    {
+      "n": "MON",
+      "f": "Monaco GP"
+    },
+    {
+      "n": "BCN",
+      "f": "Barcelona-Catalunya GP"
+    },
+    {
+      "n": "AUT",
+      "f": "Austrian GP"
+    },
+    {
+      "n": "GBR",
+      "f": "British GP",
+      "sprint": true
+    },
+    {
+      "n": "BEL",
+      "f": "Belgian GP"
+    },
+    {
+      "n": "HUN",
+      "f": "Hungarian GP"
+    },
+    {
+      "n": "NED",
+      "f": "Dutch GP",
+      "sprint": true
+    },
+    {
+      "n": "ITA",
+      "f": "Italian GP"
+    },
+    {
+      "n": "MAD",
+      "f": "Spanish GP (Madrid)"
+    },
+    {
+      "n": "AZE",
+      "f": "Azerbaijan GP"
+    },
+    {
+      "n": "SGP",
+      "f": "Singapore GP",
+      "sprint": true
+    },
+    {
+      "n": "USA",
+      "f": "US GP"
+    },
+    {
+      "n": "MEX",
+      "f": "Mexico GP"
+    },
+    {
+      "n": "BRA",
+      "f": "Brazilian GP"
+    },
+    {
+      "n": "LVS",
+      "f": "Las Vegas GP"
+    },
+    {
+      "n": "QAT",
+      "f": "Qatar GP"
+    },
+    {
+      "n": "ABU",
+      "f": "Abu Dhabi GP"
+    }
+  ],
+  "TEAM_DB": {
+    "Mercedes": {
+      "fullName": "Mercedes-AMG Petronas F1 Team",
+      "base": "Brackley, United Kingdom",
+      "founded": 1954,
+      "f1entry": 1954,
+      "championships": 8,
+      "color": "var(--mercedes)",
+      "engine2026": "Mercedes-AMG F1 M17 (Works)",
+      "chassis2026": "W17",
+      "principal": "Toto Wolff",
+      "techDirector": "James Allison",
+      "totalRaces": 275,
+      "totalWins": 125,
+      "totalPodiums": 302,
+      "totalPoles": 133,
+      "totalPoints": 7308,
+      "totalFastestLaps": 91,
+      "bio": "The most successful constructor of the modern hybrid era, Mercedes won eight consecutive constructors' championships from 2014 to 2021. After a tough transition to the ground-effect regulations in 2022, they rebuilt methodically, reclaiming the championship in 2026 with a dominant mastery of the new active-aerodynamic regulations. Their W17 has been the benchmark from race one, with Russell and Antonelli securing back-to-back 1-2 finishes in Australia and China.",
+      "drivers2026": [
+        "George Russell (#63)",
+        "Kimi Antonelli (#12)"
+      ],
+      "notable": [
+        "8\u00d7 Constructors Champions",
+        "Lewis Hamilton 7\u00d7 WDC with team",
+        "125 race wins",
+        "Most dominant team 2014\u20132021"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 1,
+          "pts": 98,
+          "wins": 2,
+          "pod": 4,
+          "poles": 4,
+          "note": "Dominant \u2014 2 races, 2 wins"
+        },
+        {
+          "year": 2025,
+          "pos": 2,
+          "pts": 469,
+          "wins": 2,
+          "pod": 12,
+          "poles": 5,
+          "note": "P2 \u2014 Russell P4 WDC (319pts), Antonelli 7th (150pts) on debut"
+        },
+        {
+          "year": 2024,
+          "pos": 2,
+          "pts": 476,
+          "wins": 4,
+          "pod": 16,
+          "poles": 6,
+          "note": "Russell and Hamilton both winners; new car concept finally clicked mid-season"
+        },
+        {
+          "year": 2023,
+          "pos": 2,
+          "pts": 409,
+          "wins": 1,
+          "pod": 12,
+          "poles": 0,
+          "note": "Lost to Red Bull"
+        },
+        {
+          "year": 2022,
+          "pos": 3,
+          "pts": 515,
+          "wins": 1,
+          "pod": 10,
+          "poles": 5,
+          "note": "Ground-effect struggles"
+        },
+        {
+          "year": 2021,
+          "pos": 2,
+          "pts": 613.5,
+          "wins": 9,
+          "pod": 19,
+          "poles": 15,
+          "note": "Lost to Red Bull in Abu Dhabi"
+        },
+        {
+          "year": 2020,
+          "pos": 1,
+          "pts": 573,
+          "wins": 13,
+          "pod": 20,
+          "poles": 15,
+          "note": "\ud83c\udfc6 7th Championships"
+        },
+        {
+          "year": 2019,
+          "pos": 1,
+          "pts": 739,
+          "wins": 15,
+          "pod": 20,
+          "poles": 15,
+          "note": "\ud83c\udfc6 6th Championships"
+        },
+        {
+          "year": 2018,
+          "pos": 1,
+          "pts": 655,
+          "wins": 11,
+          "pod": 18,
+          "poles": 13,
+          "note": "\ud83c\udfc6 5th Championships"
+        },
+        {
+          "year": 2017,
+          "pos": 1,
+          "pts": 668,
+          "wins": 12,
+          "pod": 19,
+          "poles": 15,
+          "note": "\ud83c\udfc6 4th Championships"
+        }
+      ]
+    },
+    "Ferrari": {
+      "fullName": "Scuderia Ferrari HP",
+      "base": "Maranello, Italy",
+      "founded": 1929,
+      "f1entry": 1950,
+      "championships": 16,
+      "color": "var(--ferrari)",
+      "engine2026": "Ferrari 066/11 (Works)",
+      "chassis2026": "SF-26",
+      "principal": "Fred Vasseur",
+      "techDirector": "Loic Serra / Enrico Cardile",
+      "totalRaces": 1080,
+      "totalWins": 244,
+      "totalPodiums": 793,
+      "totalPoles": 245,
+      "totalPoints": 9890,
+      "totalFastestLaps": 260,
+      "bio": "The most storied constructor in Formula 1 history. Ferrari have competed in every World Championship since 1950 and hold records for most race wins, podiums and pole positions. Their last constructors' title came in 2008. The signing of Lewis Hamilton for 2026 was seismic \u2014 his first Ferrari podium at the Chinese GP was an emotional moment for the sport. With Hamilton and Leclerc, Ferrari have arguably their strongest driver pairing in a generation.",
+      "drivers2026": [
+        "Charles Leclerc (#16)",
+        "Lewis Hamilton (#44)"
+      ],
+      "notable": [
+        "16\u00d7 Constructors Champions (record)",
+        "244 race wins (record)",
+        "Most entries in F1 history",
+        "Hamilton joined 2026 \u2014 first podium at Chinese GP"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 2,
+          "pts": 67,
+          "wins": 0,
+          "pod": 3,
+          "poles": 0,
+          "note": "Hamilton first Ferrari podium"
+        },
+        {
+          "year": 2025,
+          "pos": 4,
+          "pts": 398,
+          "wins": 2,
+          "pod": 8,
+          "poles": 4,
+          "note": "P4 \u2014 Leclerc 5th WDC (242pts), Hamilton 6th (156pts) in Ferrari debut"
+        },
+        {
+          "year": 2024,
+          "pos": 2,
+          "pts": 652,
+          "wins": 5,
+          "pod": 19,
+          "poles": 13,
+          "note": "Best since 2019"
+        },
+        {
+          "year": 2023,
+          "pos": 3,
+          "pts": 406,
+          "wins": 4,
+          "pod": 14,
+          "poles": 9,
+          "note": "P3 \u2014 Leclerc and Sainz both race winners; strategy errors remain costly"
+        },
+        {
+          "year": 2022,
+          "pos": 2,
+          "pts": 554,
+          "wins": 4,
+          "pod": 15,
+          "poles": 12,
+          "note": "Best chance since 2008"
+        },
+        {
+          "year": 2021,
+          "pos": 3,
+          "pts": 323.5,
+          "wins": 0,
+          "pod": 8,
+          "poles": 2,
+          "note": "Recovery year"
+        },
+        {
+          "year": 2020,
+          "pos": 6,
+          "pts": 131,
+          "wins": 0,
+          "pod": 3,
+          "poles": 0,
+          "note": "Worst season in decades"
+        },
+        {
+          "year": 2019,
+          "pos": 2,
+          "pts": 504,
+          "wins": 3,
+          "pod": 18,
+          "poles": 9,
+          "note": "Vettel title challenge"
+        },
+        {
+          "year": 2018,
+          "pos": 2,
+          "pts": 571,
+          "wins": 6,
+          "pod": 17,
+          "poles": 12,
+          "note": "Vettel title challenge closest since 2012; Germany error proved decisive"
+        }
+      ]
+    },
+    "McLaren": {
+      "fullName": "McLaren Formula 1 Team",
+      "base": "Woking, United Kingdom",
+      "founded": 1963,
+      "f1entry": 1966,
+      "championships": 9,
+      "color": "var(--mclaren)",
+      "engine2026": "Mercedes-AMG F1 M17 (Customer)",
+      "chassis2026": "MCL40",
+      "principal": "Andrea Stella",
+      "techDirector": "Peter Prodromou",
+      "totalRaces": 960,
+      "totalWins": 183,
+      "totalPodiums": 509,
+      "totalPoles": 156,
+      "totalPoints": 7180,
+      "totalFastestLaps": 162,
+      "bio": "Reigning 2025 World Champions after Lando Norris claimed McLaren's first drivers' title since 2008. Their 2025 MCL59 was the fastest car on the grid. The 2026 season has been a disaster early on \u2014 both Norris and Piastri failed to start the Chinese GP due to separate electrical issues with the Mercedes PU integration. Bortoleto (Audi) and Albon (Williams) also DNS'd the same race, suggesting a broader issue with specific grid conditions. McLaren trail Mercedes by 80 points after two rounds, an almost insurmountable gap if not arrested immediately.",
+      "drivers2026": [
+        "Lando Norris (#1)",
+        "Oscar Piastri (#81)"
+      ],
+      "notable": [
+        "9\u00d7 Constructors Champions",
+        "Senna won 3 WDC with McLaren",
+        "183 race wins",
+        "Norris 2025 WDC \u2014 first since Hamilton 2008",
+        "Norris races #1 in 2026 as reigning champion",
+        "CHN R2: Norris & Piastri DNS \u2014 car issues"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 3,
+          "pts": 18,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Car issues DNS \u2014 Norris/Piastri (+ Bortoleto/Albon) R2"
+        },
+        {
+          "year": 2025,
+          "pos": 1,
+          "pts": 833,
+          "wins": 15,
+          "pod": 22,
+          "poles": 11,
+          "note": "\ud83c\udfc6 Back-to-back WCC \u2014 Norris WDC by 2pts over Verstappen in Abu Dhabi"
+        },
+        {
+          "year": 2024,
+          "pos": 1,
+          "pts": 666,
+          "wins": 6,
+          "pod": 20,
+          "poles": 8,
+          "note": "\ud83c\udfc6 First WCC since 1998 \u2014 ended 26-year drought; Norris first win Miami"
+        },
+        {
+          "year": 2023,
+          "pos": 4,
+          "pts": 302,
+          "wins": 0,
+          "pod": 9,
+          "poles": 2,
+          "note": "Great recovery"
+        },
+        {
+          "year": 2022,
+          "pos": 5,
+          "pts": 159,
+          "wins": 0,
+          "pod": 4,
+          "poles": 0,
+          "note": "P5 \u2014 Rebuilding phase; Norris consistent scorer; new chassis concept bedding in"
+        },
+        {
+          "year": 2021,
+          "pos": 4,
+          "pts": 275,
+          "wins": 0,
+          "pod": 8,
+          "poles": 1,
+          "note": "Near-miss Sochi win"
+        },
+        {
+          "year": 2020,
+          "pos": 3,
+          "pts": 202,
+          "wins": 0,
+          "pod": 5,
+          "poles": 0,
+          "note": "Best result since 2012"
+        }
+      ]
+    },
+    "Red Bull": {
+      "fullName": "Oracle Red Bull Racing",
+      "base": "Milton Keynes, United Kingdom",
+      "founded": 2004,
+      "f1entry": 2005,
+      "championships": 6,
+      "color": "var(--redbull)",
+      "engine2026": "Red Bull Ford Powertrains DM01 (Works)",
+      "chassis2026": "RB22",
+      "principal": "Christian Horner",
+      "techDirector": "Pierre Wach\u00e9",
+      "totalRaces": 390,
+      "totalWins": 119,
+      "totalPodiums": 310,
+      "totalPoles": 100,
+      "totalPoints": 7820,
+      "totalFastestLaps": 98,
+      "bio": "Red Bull Racing dominated F1 from 2010\u20132013 and again from 2022\u20132024, the latter stretch including Verstappen's record-breaking 2023 season of 19 victories. For 2026 they ended their Honda partnership and launched Red Bull Ford Powertrains \u2014 a fully in-house engine built with Ford backing. The DM01 power unit has suffered catastrophic reliability in the opening two races, leaving Verstappen pointless and the team in crisis mode.",
+      "drivers2026": [
+        "Max Verstappen (#3)",
+        "Isack Hadjar (#6)"
+      ],
+      "notable": [
+        "6\u00d7 Constructors Champions",
+        "Vettel 4\u00d7 WDC 2010-13",
+        "Verstappen 4\u00d7 WDC 2021-24",
+        "19 wins in 2023 \u2014 single season record",
+        "Verstappen switches to #3 in 2026 \u2014 first driver to change permanent number",
+        "2026: RBF DM01 PU reliability crisis \u2014 Verstappen DNS CHN"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 5,
+          "pts": 12,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "RBF DM01 reliability crisis"
+        },
+        {
+          "year": 2025,
+          "pos": 3,
+          "pts": 451,
+          "wins": 8,
+          "pod": 14,
+          "poles": 9,
+          "note": "P3 \u2014 Verstappen 8 wins but lost WDC by 2pts; Tsunoda weak second driver"
+        },
+        {
+          "year": 2024,
+          "pos": 2,
+          "pts": 860,
+          "wins": 9,
+          "pod": 21,
+          "poles": 15,
+          "note": "Verstappen 4th WDC"
+        },
+        {
+          "year": 2023,
+          "pos": 1,
+          "pts": 860,
+          "wins": 21,
+          "pod": 22,
+          "poles": 14,
+          "note": "\ud83c\udfc6 Dominant \u2014 21 wins"
+        },
+        {
+          "year": 2022,
+          "pos": 1,
+          "pts": 759,
+          "wins": 17,
+          "pod": 23,
+          "poles": 1,
+          "note": "\ud83c\udfc6 Constructors Champions"
+        },
+        {
+          "year": 2021,
+          "pos": 2,
+          "pts": 585.5,
+          "wins": 11,
+          "pod": 18,
+          "poles": 10,
+          "note": "WDC Verstappen, WCC Mercedes"
+        },
+        {
+          "year": 2013,
+          "pos": 1,
+          "pts": 596,
+          "wins": 13,
+          "pod": 18,
+          "poles": 12,
+          "note": "\ud83c\udfc6 4th consecutive WCC"
+        }
+      ]
+    },
+    "Racing Bulls": {
+      "fullName": "Visa Cash App Racing Bulls F1 Team",
+      "base": "Faenza, Italy",
+      "founded": 1985,
+      "f1entry": 1985,
+      "championships": 0,
+      "color": "var(--racingbulls)",
+      "engine2026": "Red Bull Ford Powertrains DM01 (Works)",
+      "chassis2026": "VCARB03",
+      "principal": "Laurent Mekies",
+      "techDirector": "Jody Egginton",
+      "totalRaces": 770,
+      "totalWins": 1,
+      "totalPodiums": 5,
+      "totalPoles": 1,
+      "totalPoints": 1820,
+      "totalFastestLaps": 14,
+      "bio": "One of F1's oldest continuous midfield outfits, operating under many names \u2014 Minardi, Toro Rosso, AlphaTauri and now Racing Bulls. Their sole victory remains Gasly's stunning win at Monza 2020. As Red Bull's junior team they have launched the careers of Vettel, Verstappen, Ricciardo, Sainz, Gasly and now Lawson and Lindblad. In 2026 Lindblad \u2014 just 18 \u2014 is matching Verstappen's points tally despite racing for the junior team.",
+      "drivers2026": [
+        "Liam Lawson (#30)",
+        "Arvid Lindblad (#41)"
+      ],
+      "notable": [
+        "Gasly win at Monza 2020 \u2014 sole victory",
+        "Launch pad for Vettel, Verstappen, Ricciardo",
+        "Lindblad 2026 \u2014 youngest driver of the season",
+        "Outscoring senior Red Bull team in 2026"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 6,
+          "pts": 12,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Outscoring Red Bull"
+        },
+        {
+          "year": 2025,
+          "pos": 6,
+          "pts": 92,
+          "wins": 0,
+          "pod": 2,
+          "poles": 0,
+          "note": "P6 \u2014 Hadjar Zandvoort podium; Lawson/Tsunoda swapped with Red Bull at R3"
+        },
+        {
+          "year": 2024,
+          "pos": 6,
+          "pts": 36,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Tsunoda lead driver; Ricciardo replaced mid-season by Lawson"
+        },
+        {
+          "year": 2023,
+          "pos": 7,
+          "pts": 25,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Tsunoda lead driver; de Vries replaced by Ricciardo mid-year"
+        },
+        {
+          "year": 2022,
+          "pos": 9,
+          "pts": 16,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Still as AlphaTauri; Gasly final year before Alpine switch"
+        },
+        {
+          "year": 2021,
+          "pos": 6,
+          "pts": 142,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "note": "Gasly consistent scorer"
+        },
+        {
+          "year": 2020,
+          "pos": 7,
+          "pts": 107,
+          "wins": 1,
+          "pod": 1,
+          "poles": 0,
+          "note": "Gasly wins Monza!"
+        }
+      ]
+    },
+    "Haas": {
+      "fullName": "TGR Haas F1 Team",
+      "base": "Kannapolis, USA / Banbury, UK",
+      "founded": 2014,
+      "f1entry": 2016,
+      "championships": 0,
+      "color": "var(--haas)",
+      "engine2026": "Ferrari 066/11 (Customer)",
+      "chassis2026": "VF-26",
+      "principal": "Ayao Komatsu",
+      "techDirector": "Andrea De Zordo",
+      "totalRaces": 185,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "totalPoles": 0,
+      "totalPoints": 420,
+      "totalFastestLaps": 2,
+      "bio": "The only American constructor on the current F1 grid, Haas entered in 2016 and immediately scored points on debut. As Ferrari customers they run the same power unit as Scuderia Ferrari. Oliver Bearman \u2014 on loan from the Ferrari Driver Academy \u2014 has been their standout in 2026, delivering performances that have stunned the paddock. Their P4 in the constructors' standings after two races is almost entirely down to Bearman's brilliance.",
+      "drivers2026": [
+        "Oliver Bearman (#87)",
+        "Esteban Ocon (#31)"
+      ],
+      "notable": [
+        "Only American constructor in F1",
+        "TGR (Toyota) title sponsor from 2026 \u2014 Ferrari PU continues",
+        "Ferrari customer PU through 2028",
+        "H\u00fclkenberg's first career podium in 2025 (British GP)",
+        "Bearman 2026 \u2014 stunning rookie campaign"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 4,
+          "pts": 17,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Bearman overperforming"
+        },
+        {
+          "year": 2025,
+          "pos": 8,
+          "pts": 79,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "note": "P8 \u2014 Bearman standout rookie; Hulkenberg British GP podium his career first"
+        },
+        {
+          "year": 2024,
+          "pos": 6,
+          "pts": 31,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Hulkenberg led; Magnussen race ban then dropped for Bearman at year-end"
+        },
+        {
+          "year": 2023,
+          "pos": 8,
+          "pts": 12,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Hulkenberg return season; Magnussen race banned for Monza move on Alonso"
+        },
+        {
+          "year": 2022,
+          "pos": 8,
+          "pts": 37,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Strong start then Mazepin dropped for Russia sanctions; Magnussen recalled"
+        },
+        {
+          "year": 2021,
+          "pos": 10,
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Development year \u2014 0 pts"
+        },
+        {
+          "year": 2019,
+          "pos": 9,
+          "pts": 28,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Grosjean and Magnussen scored but team politics beginning to surface"
+        }
+      ]
+    },
+    "Alpine": {
+      "fullName": "BWT Alpine F1 Team",
+      "base": "Enstone, United Kingdom",
+      "founded": 1981,
+      "f1entry": 1981,
+      "championships": 2,
+      "color": "var(--alpine)",
+      "engine2026": "Mercedes-AMG F1 M17 (Customer)",
+      "chassis2026": "A526",
+      "principal": "Oliver Oakes",
+      "techDirector": "David Sanchez",
+      "totalRaces": 720,
+      "totalWins": 22,
+      "totalPodiums": 106,
+      "totalPoles": 17,
+      "totalPoints": 3980,
+      "totalFastestLaps": 18,
+      "bio": "Formerly Renault, Lotus, Toleman and Benetton \u2014 Alpine's Enstone base has produced two World Champions (Schumacher with Benetton in 1994-95, Alonso with Renault in 2005-06). After years running their own Renault PU they switched to Mercedes customer power for 2026, a pragmatic decision following the end of the Renault F1 engine programme. Gasly has been their star in 2026, while Colapinto brings Argentinian passion and raw speed.",
+      "drivers2026": [
+        "Pierre Gasly (#10)",
+        "Franco Colapinto (#43)"
+      ],
+      "notable": [
+        "2\u00d7 Constructors Champions (2005, 2006 as Renault)",
+        "Alonso 2\u00d7 WDC (2005, 2006)",
+        "Schumacher 2\u00d7 WDC (1994, 1995 as Benetton)",
+        "Switched to Mercedes PU for 2026",
+        "Enstone factory one of F1's most storied bases"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 7,
+          "pts": 10,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "First season on Mercedes PU"
+        },
+        {
+          "year": 2025,
+          "pos": 10,
+          "pts": 22,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "P10 \u2014 Worst season in years; Renault PU farewell; Doohan replaced by Colapinto mid-season"
+        },
+        {
+          "year": 2024,
+          "pos": 6,
+          "pts": 65,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Renault PU final year"
+        },
+        {
+          "year": 2023,
+          "pos": 6,
+          "pts": 120,
+          "wins": 0,
+          "pod": 2,
+          "poles": 0,
+          "note": "Gasly settled after Alpine move; Ocon consistent but Renault PU falling behind"
+        },
+        {
+          "year": 2022,
+          "pos": 4,
+          "pts": 173,
+          "wins": 0,
+          "pod": 4,
+          "poles": 0,
+          "note": "Ocon win Hungary 2021"
+        },
+        {
+          "year": 2021,
+          "pos": 5,
+          "pts": 155,
+          "wins": 1,
+          "pod": 3,
+          "poles": 0,
+          "note": "Ocon wins Hungary"
+        },
+        {
+          "year": 2006,
+          "pos": 1,
+          "pts": 206,
+          "wins": 8,
+          "pod": 15,
+          "poles": 6,
+          "note": "\ud83c\udfc6 Alonso 2nd WDC"
+        }
+      ]
+    },
+    "Williams": {
+      "fullName": "Williams Racing",
+      "base": "Grove, United Kingdom",
+      "founded": 1977,
+      "f1entry": 1977,
+      "championships": 7,
+      "color": "var(--williams)",
+      "engine2026": "Mercedes-AMG F1 M17 (Customer)",
+      "chassis2026": "FW47",
+      "principal": "James Vowles",
+      "techDirector": "Pat Fry",
+      "totalRaces": 820,
+      "totalWins": 114,
+      "totalPodiums": 312,
+      "totalPoles": 128,
+      "totalPoints": 4180,
+      "totalFastestLaps": 133,
+      "bio": "The most successful privateer team in F1 history with 7 constructors' championships and 114 race wins. Their golden era was 1986-1997 under Frank Williams and Patrick Head. After years in the midfield and back of the grid, James Vowles (ex-Mercedes strategist) has rebuilt the team methodically. Carlos Sainz joining in 2025 gave them a proven frontrunner. In 2026 they're a competitive midfield presence, though still some way from their championship-winning days.",
+      "drivers2026": [
+        "Carlos Sainz (#55)",
+        "Alexander Albon (#23)"
+      ],
+      "notable": [
+        "7\u00d7 Constructors Champions",
+        "Senna, Mansell, Prost, Hill, Villeneuve all drove for Williams",
+        "114 race wins \u2014 3rd all-time",
+        "Sainz 2025 win \u2014 first Williams win since 2004",
+        "Under Vowles: significant competitive recovery"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 9,
+          "pts": 2,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Sainz points in China"
+        },
+        {
+          "year": 2025,
+          "pos": 5,
+          "pts": 137,
+          "wins": 0,
+          "pod": 2,
+          "poles": 1,
+          "note": "P5 \u2014 Best result since 2003; Sainz P3 Baku and Qatar; Albon P8 in WDC"
+        },
+        {
+          "year": 2024,
+          "pos": 8,
+          "pts": 6,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Albon scored both points; Colapinto mid-season debut impressed the paddock"
+        },
+        {
+          "year": 2023,
+          "pos": 7,
+          "pts": 28,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Albon heroics"
+        },
+        {
+          "year": 2022,
+          "pos": 8,
+          "pts": 8,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Bottom of midfield"
+        },
+        {
+          "year": 2017,
+          "pos": 5,
+          "pts": 83,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Last top-5 before 2025"
+        },
+        {
+          "year": 1997,
+          "pos": 1,
+          "pts": 123,
+          "wins": 8,
+          "pod": 13,
+          "poles": 8,
+          "note": "\ud83c\udfc6 Last WCC title"
+        }
+      ]
+    },
+    "Aston Martin": {
+      "fullName": "Aston Martin Aramco F1 Team",
+      "base": "Silverstone, United Kingdom",
+      "founded": 2018,
+      "f1entry": 2021,
+      "championships": 0,
+      "color": "var(--aston)",
+      "engine2026": "Honda HRC RBPTH002 (Works)",
+      "chassis2026": "AMR26",
+      "principal": "Mike Krack",
+      "techDirector": "Adrian Newey (CTO)",
+      "totalRaces": 84,
+      "totalWins": 0,
+      "totalPodiums": 9,
+      "totalPoles": 0,
+      "totalPoints": 605,
+      "totalFastestLaps": 0,
+      "bio": "Racing Point rebranded as Aston Martin for 2021 under the ownership of Lawrence Stroll. Their 2023 season \u2014 driven by Fernando Alonso \u2014 was a revelation, with 8 podiums and 4th in the constructors' standings. The signing of Adrian Newey as CTO in 2024 was the biggest technical hire in F1 in years. For 2026 they are the exclusive works Honda HRC partner \u2014 a completely new and independent power unit programme. However, the 2026 regulations have reset their competitive position entirely and they are yet to score.",
+      "drivers2026": [
+        "Fernando Alonso (#14)",
+        "Lance Stroll (#18)"
+      ],
+      "notable": [
+        "Adrian Newey joined as CTO 2024",
+        "Exclusive Honda HRC works partnership 2026",
+        "Alonso 2023 \u2014 8 podiums, career resurgence",
+        "Lawrence Stroll ownership since 2018",
+        "Previously Force India / Racing Point"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 11,
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Honda HRC debut \u2014 off pace"
+        },
+        {
+          "year": 2025,
+          "pos": 7,
+          "pts": 89,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "note": "P7 \u2014 Newey arrived as CTO mid-season; Alonso P5 Saudi GP best result"
+        },
+        {
+          "year": 2024,
+          "pos": 5,
+          "pts": 94,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Team regression"
+        },
+        {
+          "year": 2023,
+          "pos": 4,
+          "pts": 280,
+          "wins": 0,
+          "pod": 8,
+          "poles": 0,
+          "note": "Alonso resurgence"
+        },
+        {
+          "year": 2022,
+          "pos": 7,
+          "pts": 55,
+          "wins": 0,
+          "pod": 1,
+          "poles": 0,
+          "note": "First year as AM"
+        },
+        {
+          "year": 2021,
+          "pos": 7,
+          "pts": 77,
+          "wins": 0,
+          "pod": 3,
+          "poles": 0,
+          "note": "First year, Vettel joins"
+        },
+        {
+          "year": 2020,
+          "pos": 4,
+          "pts": 195,
+          "wins": 0,
+          "pod": 5,
+          "poles": 0,
+          "note": "Best as Racing Point"
+        }
+      ]
+    },
+    "Audi": {
+      "fullName": "Audi F1 Team (formerly Sauber)",
+      "base": "Hinwil, Switzerland",
+      "founded": 1993,
+      "f1entry": 1993,
+      "championships": 0,
+      "color": "var(--audi)",
+      "engine2026": "Audi P.U. (Works)",
+      "chassis2026": "C46",
+      "principal": "Mattia Binotto",
+      "techDirector": "Luca Furbatto",
+      "totalRaces": 502,
+      "totalWins": 1,
+      "totalPodiums": 4,
+      "totalPoles": 1,
+      "totalPoints": 1052,
+      "totalFastestLaps": 4,
+      "bio": "The Hinwil-based constructor that began as Sauber \u2014 the team that launched Michael Schumacher's career on loan in 1991 \u2014 is now the works Audi F1 factory team for 2026. Their sole victory came as BMW Sauber at the 2008 Canadian GP with Robert Kubica. Mattia Binotto (ex-Ferrari team principal) leads a major rebranding and technical rebuild. Gabriel Bortoleto and Nico H\u00fclkenberg are tasked with developing the brand-new Audi power unit through its inevitable teething pains.",
+      "drivers2026": [
+        "Gabriel Bortoleto (#5)",
+        "Nico H\u00fclkenberg (#27)"
+      ],
+      "notable": [
+        "Launched Schumacher (1991 Belgian GP wildcard)",
+        "Kubica win Canadian GP 2008 \u2014 sole victory (as BMW Sauber)",
+        "Audi took over for 2026 works programme",
+        "Binotto leading technical rebuild",
+        "Brand new Audi PU \u2014 first works entry"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 8,
+          "pts": 2,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Audi works debut \u2014 PU teething"
+        },
+        {
+          "year": 2025,
+          "pos": 9,
+          "pts": 70,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "P9 \u2014 Final Sauber era; Hulkenberg 51pts led team; Bortoleto rookie impressed"
+        },
+        {
+          "year": 2024,
+          "pos": 9,
+          "pts": 4,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Bottas and Zhou final year; Binotto appointed incoming team principal"
+        },
+        {
+          "year": 2023,
+          "pos": 9,
+          "pts": 16,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Bottas + Zhou era"
+        },
+        {
+          "year": 2008,
+          "pos": 4,
+          "pts": 135,
+          "wins": 1,
+          "pod": 4,
+          "poles": 1,
+          "note": "Kubica wins Canada (BMW Sauber)"
+        },
+        {
+          "year": 2007,
+          "pos": 8,
+          "pts": 13,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "As BMW Sauber"
+        }
+      ]
+    },
+    "Cadillac": {
+      "fullName": "Cadillac Formula 1 Team (formerly Andretti Global)",
+      "base": "Silverstone, United Kingdom",
+      "founded": 2024,
+      "f1entry": 2026,
+      "championships": 0,
+      "color": "var(--cadillac)",
+      "engine2026": "Ferrari 066/11 (Customer)",
+      "chassis2026": "GMTI-001",
+      "principal": "Graeme Lowdon",
+      "techDirector": "Ben Agathangelou",
+      "totalRaces": 38,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "totalPoles": 0,
+      "totalPoints": 0,
+      "totalFastestLaps": 0,
+      "bio": "The 11th team on the 2026 grid, Cadillac (backed by General Motors) entered F1 after years of effort by Michael Andretti's organisation to gain approval from the FOM. They run Ferrari customer power and have recruited Valtteri Bottas and Sergio P\u00e9rez \u2014 both with extensive F1 experience \u2014 to help build the constructor from scratch. As a debut team, points are not expected immediately but Bottas and P\u00e9rez have the racecraft to capitalise on chaotic conditions.",
+      "drivers2026": [
+        "Valtteri Bottas (#77)",
+        "Sergio P\u00e9rez (#11)"
+      ],
+      "notable": [
+        "11th team on the 2026 grid",
+        "Backed by General Motors / Cadillac",
+        "Michael Andretti's years-long FOM battle to enter",
+        "Ferrari customer PU",
+        "Bottas (248 starts) and P\u00e9rez (283 starts) \u2014 most experienced debut lineup ever"
+      ],
+      "seasons": [
+        {
+          "year": 2026,
+          "pos": 10,
+          "pts": 0,
+          "wins": 0,
+          "pod": 0,
+          "poles": 0,
+          "note": "Debut season"
+        }
+      ]
+    }
+  },
+  "RELIABILITY_PRIORS": {
+    "George Russell": 0.97,
+    "Kimi Antonelli": 0.97,
+    "Charles Leclerc": 0.95,
+    "Lewis Hamilton": 0.96,
+    "Oliver Bearman": 0.96,
+    "Lando Norris": 0.9,
+    "Pierre Gasly": 0.93,
+    "Max Verstappen": 0.75,
+    "Liam Lawson": 0.94,
+    "Arvid Lindblad": 0.95,
+    "Isack Hadjar": 0.95,
+    "Oscar Piastri": 0.9,
+    "Carlos Sainz": 0.95,
+    "Gabriel Bortoleto": 0.92,
+    "Franco Colapinto": 0.93,
+    "Yuki Tsunoda": 0.88,
+    "Esteban Ocon": 0.93,
+    "Nico H\u00fclkenberg": 0.94,
+    "Alexander Albon": 0.94,
+    "Valtteri Bottas": 0.94,
+    "Sergio P\u00e9rez": 0.94,
+    "Fernando Alonso": 0.93,
+    "Lance Stroll": 0.92
+  },
+  "DRIVER_SKILL_PRIORS": {
+    "Lewis Hamilton": 0.97,
+    "Max Verstappen": 0.96,
+    "Fernando Alonso": 0.93,
+    "Charles Leclerc": 0.91,
+    "Lando Norris": 0.9,
+    "George Russell": 0.89,
+    "Oscar Piastri": 0.88,
+    "Kimi Antonelli": 0.86,
+    "Carlos Sainz": 0.85,
+    "Pierre Gasly": 0.8,
+    "Liam Lawson": 0.77,
+    "Isack Hadjar": 0.75,
+    "Alexander Albon": 0.78,
+    "Nico H\u00fclkenberg": 0.76,
+    "Oliver Bearman": 0.74,
+    "Yuki Tsunoda": 0.73,
+    "Arvid Lindblad": 0.72,
+    "Esteban Ocon": 0.72,
+    "Lance Stroll": 0.65,
+    "Gabriel Bortoleto": 0.74,
+    "Franco Colapinto": 0.71,
+    "Valtteri Bottas": 0.75,
+    "Sergio P\u00e9rez": 0.77
+  },
+  "TEAM_PACE": {
+    "Mercedes": 1,
+    "Ferrari": 0.88,
+    "McLaren": 0.85,
+    "Red Bull": 0.72,
+    "Racing Bulls": 0.68,
+    "Haas": 0.65,
+    "Alpine": 0.62,
+    "Williams": 0.61,
+    "Aston Martin": 0.57,
+    "Audi": 0.55,
+    "Cadillac": 0.5
+  },
+  "TRACK_COORDS": {
+    "AUS": {
+      "lat": -37.8497,
+      "lon": 144.968
+    },
+    "CHN": {
+      "lat": 31.3389,
+      "lon": 121.2197
+    },
+    "JPN": {
+      "lat": 34.8431,
+      "lon": 136.5407
+    },
+    "BAH": {
+      "lat": 26.0325,
+      "lon": 50.5106
+    },
+    "SAU": {
+      "lat": 21.6319,
+      "lon": 39.1044
+    },
+    "MIA": {
+      "lat": 25.9581,
+      "lon": -80.2389
+    },
+    "CAN": {
+      "lat": 45.5017,
+      "lon": -73.5228
+    },
+    "MON": {
+      "lat": 43.7347,
+      "lon": 7.4206
+    },
+    "BCN": {
+      "lat": 41.57,
+      "lon": 2.2611
+    },
+    "AUT": {
+      "lat": 47.2197,
+      "lon": 14.7647
+    },
+    "GBR": {
+      "lat": 52.0786,
+      "lon": -1.0169
+    },
+    "BEL": {
+      "lat": 50.4372,
+      "lon": 5.9714
+    },
+    "HUN": {
+      "lat": 47.5789,
+      "lon": 19.2486
+    },
+    "NED": {
+      "lat": 52.3888,
+      "lon": 4.5409
+    },
+    "ITA": {
+      "lat": 45.6156,
+      "lon": 9.2811
+    },
+    "MAD": {
+      "lat": 40.4168,
+      "lon": -3.7038
+    },
+    "AZE": {
+      "lat": 40.3725,
+      "lon": 49.8533
+    },
+    "SGP": {
+      "lat": 1.2914,
+      "lon": 103.8644
+    },
+    "USA": {
+      "lat": 30.1328,
+      "lon": -97.6411
+    },
+    "MEX": {
+      "lat": 19.4042,
+      "lon": -99.0907
+    },
+    "BRA": {
+      "lat": -23.7036,
+      "lon": -46.6997
+    },
+    "LVS": {
+      "lat": 36.1699,
+      "lon": -115.1398
+    },
+    "QAT": {
+      "lat": 25.49,
+      "lon": 51.4542
+    },
+    "ABU": {
+      "lat": 24.4672,
+      "lon": 54.6031
+    }
+  },
+  "PTS_TABLE": [
+    25,
+    18,
+    15,
+    12,
+    10,
+    8,
+    6,
+    4,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SPRINT_PTS": [
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "TYRE_PACE": {
+    "SOFT": 1.03,
+    "MEDIUM": 1,
+    "HARD": 0.985,
+    "INTERMEDIATE": 0.96,
+    "WET": 0.94
+  },
+  "CIRCUIT_OVERTAKE": {
+    "AUS": 0.7,
+    "CHN": 0.65,
+    "JPN": 0.55,
+    "MIA": 0.65,
+    "CAN": 0.8,
+    "MON": 0.2,
+    "BCN": 0.55,
+    "AUT": 0.75,
+    "GBR": 0.6,
+    "BEL": 0.7,
+    "HUN": 0.3,
+    "NED": 0.55,
+    "ITA": 0.75,
+    "MAD": 0.65,
+    "AZE": 0.8,
+    "SGP": 0.35,
+    "USA": 0.65,
+    "MEX": 0.7,
+    "BRA": 0.7,
+    "LVS": 0.75,
+    "QAT": 0.6,
+    "ABU": 0.65
+  },
+  "TRACK_DB": {
+    "AUS": {
+      "name": "Albert Park Circuit",
+      "city": "Melbourne",
+      "country": "Australia",
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "length": 5.278,
+      "laps": 58,
+      "raceDistance": 306.124,
+      "corners": 16,
+      "smZones": 5,
+      "lapRecord": {
+        "time": "1:20.235",
+        "driver": "Charles Leclerc",
+        "team": "Ferrari",
+        "year": 2024
+      },
+      "firstGP": 1996,
+      "char": [
+        "street",
+        "power",
+        "overtake"
+      ],
+      "slow": 4,
+      "med": 6,
+      "fast": 6,
+      "topSpeed": 328,
+      "avgSpeed": 225,
+      "elevation": 0,
+      "bio": "The Albert Park street circuit has hosted the Australian GP since 1996. Set in a public park around a lake in suburban Melbourne, its smooth asphalt and flowing fast corners \u2014 especially the sweeping Turns 11-13 complex \u2014 reward brave driving. The 2026 opener was the first race under the new active aero and power unit regulations. Russell started from pole and survived early pressure from Leclerc and Hamilton to lead Antonelli home in a Mercedes 1-2. Antonelli had crashed heavily in FP3, while Piastri's McLaren suffered an unexpected surge on the reconnaissance lap \u2014 both Piastri and H\u00fclkenberg did not start. Bortoleto (P9) scored Audi's first-ever F1 points, and debutant Lindblad (P8) impressed for Racing Bulls.",
+      "tyreWear": "Low \u2014 smooth tarmac, mild temperatures",
+      "keyCorner": "Turn 1 (heavy braking) \u00b7 Turn 9\u201310 (high-speed sweep)",
+      "weather": "Mild and unpredictable \u2014 risk of rain",
+      "notable": [
+        "First GP under active aero regs in 2026 \u2014 new era begins",
+        "Verstappen crashed in Q1 (rear axle locked under braking) \u2014 started P20, recovered to P6",
+        "Piastri DNS \u2014 McLaren suffered unexpected engine surge on reconnaissance lap",
+        "Bortoleto P9 \u2014 Audi's first-ever F1 championship points",
+        "Lindblad P8 debut \u2014 first Faenza-team debut points scorer since Tsunoda 2021 Bahrain",
+        "Schumacher comeback win 2004 \u00b7 McLaren MP4/4 dominated 1988 season"
+      ],
+      "recentWinners": [
+        {
+          "year": 2026,
+          "driver": "G. Russell",
+          "team": "Mercedes",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2025,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "C. Sainz",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        }
+      ],
+      "p": "M294.629 449.112c-17.004-16.153-135.384-136.209-146.616-147.395-1.524-1.517-1.706-3.53.325-6.806 3.149-5.077 4.704-10.311 4.992-19.451.338-10.696-5.247-17.614-9.32-20.938a543.275 540.954 0 0 1-3.051-2.51c-7.815-6.483-24.853-22.693-36.79-37.604-7.19-8.982-18.233-21.829-21.922-27.231-3.69-5.402-20.837-34.579-23.657-41.495-.14-.345-.313-.741-.486-1.193-2.526-6.507 1.79-7.721 4.882-8.288 3.321-.61 15.573-2.62 24.47-4.568 6.013-1.313 7.515-6.538 7.381-10.805-.272-8.617-1.166-38.604-1.248-43.628-.044-2.674-1.14-6.564 2.014-9.31.177-.155.36-.297.536-.442 7.596-6.268 24.309-19.02 31.472-22.26 7.163-3.241 19.75-8.645 25.394-10.59.27-.093 8.895-3.4 9.197-3.512 6.839-2.512 16.371-9.01 25.802-14.913 2.85-1.783 5.222-1.533 7.408.73 4.11 4.254 8.482 8.26 13.591 10.778 5.11 2.519 10.96 3.55 16.713 4.107l.869.086c6.576.667 18.943 2.276 24.961 6.615 6.599 4.758 18.448 15.344 22.356 27.446 2.667 8.264 8.547 39.081 9.113 44.954.043.417.075.832.111 1.243.316 3.362.451 7.204-.38 12.615-.785 5.117-3.03 9.761-4.865 12.36-2.135 3.025-2.99 4.04-5.601 7.349-2.022 2.563-3.632 5.219-5.412 8.814-1.298 2.622-2.098 5.678-3.25 9.515-.6 1.996-.984 4.224-1.438 6.672-2.298 12.381-6.64 33.93-6.511 48.195.217 24.638 9.137 41.707 17.797 53.812 10.2 14.265 18.231 19.882 28.868 28.745 2.75 2.292 5.48 4.553 8.392 6.78 3.169 2.426 7.437 5.332 12.714 6.133 7.49 1.135 15.377.162 23.93.162 6.755 0 8.091.737 11.068 3.078 11.64 9.16 39.977 33.269 40.484 33.778 8.615 8.626 17.154 17.81 21.049 30.465 4.124 13.4 9.334 31.769 11.72 40.414 2.386 8.646 9.142 31.943 9.55 34.796.65 4.539 2.668 10.58-1.123 10.859-5.127.378-11.708 1.435-20.695 5.01-11.669 4.64-25.258 9.853-29.403 11.147-11.07 3.458-18.45 3.889-24.962-7.997-4.378-7.99-14.84-26.34-22.345-39.148-3.658-6.242-7.146-4.698-8.583-3.104-4.776 5.294-9.984 10.914-17.255 18.587-4.469 4.71-15.194 4.643-22.246-2.057z"
+    },
+    "CHN": {
+      "name": "Shanghai International Circuit",
+      "city": "Shanghai",
+      "country": "China",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "length": 5.451,
+      "laps": 56,
+      "raceDistance": 305.066,
+      "corners": 16,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:32.064",
+        "driver": "Kimi Antonelli",
+        "team": "Mercedes",
+        "year": 2026
+      },
+      "firstGP": 2004,
+      "char": [
+        "power",
+        "tyre",
+        "overtake"
+      ],
+      "slow": 5,
+      "med": 6,
+      "fast": 5,
+      "topSpeed": 327,
+      "avgSpeed": 196,
+      "elevation": 0,
+      "bio": "Shanghai's sweeping back straight and the unique 'snail shell' Turn 1\u20132 complex make it one of F1's most technically demanding layouts. The 2026 race was the emotional high of the early season \u2014 Kimi Antonelli took pole, won, and set the fastest lap at just 19 \u2014 achieving a hat-trick and becoming the second youngest race winner in F1 history (behind Verstappen's 2016 Spanish GP win) and the first Italian winner since Fisichella at the 2006 Malaysian GP. Note: the hat-trick achievement stands even though fastest lap no longer scores a point since 2025. Hamilton stood on the podium in Ferrari red for the first time (P3), while Leclerc finished P4. Russell won the Sprint. Piastri, Norris, Bortoleto and Albon all DNS \u2014 car issues. Verstappen, Alonso and Stroll retired from the race.",
+      "tyreWear": "High \u2014 abrasive surface and long corners load rear tyres significantly",
+      "keyCorner": "Turn 1\u20132 (hairpin complex) \u00b7 Turn 7\u20139 (long sweeping esses)",
+      "weather": "Cool spring, occasionally overcast",
+      "notable": [
+        "Antonelli hat-trick: pole + win + fastest lap (no bonus point since 2025)",
+        "Second youngest GP winner ever \u2014 behind Verstappen 2016 (18yr)",
+        "Youngest ever GP pole-sitter \u2014 beat Vettel's 2008 Italian GP record",
+        "First Italian GP winner since Fisichella 2006 Malaysian GP",
+        "McLaren's 1000th F1 race entry",
+        "Russell won Sprint \u00b7 Hamilton first Ferrari podium (P3 race)",
+        "DNS: Piastri, Norris, Bortoleto, Albon \u00b7 DNF: Verstappen, Alonso, Stroll"
+      ],
+      "recentWinners": [
+        {
+          "year": 2026,
+          "driver": "K. Antonelli",
+          "team": "Mercedes",
+          "pole": "K. Antonelli"
+        },
+        {
+          "year": 2025,
+          "driver": "O. Piastri",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2019,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "V. Bottas"
+        },
+        {
+          "year": 2018,
+          "driver": "D. Ricciardo",
+          "team": "Red Bull",
+          "pole": "S. Vettel"
+        }
+      ],
+      "p": "M457.499 211.881c-5.788-8.465-14.832-13.126-25.467-13.126-10.565 0-22.335 4.768-28.618 11.593-2.966 3.22-4.412 6.674-4.192 9.985.385 5.707 4.117 12.018 11.09 18.76.58.558.56 1.21.496 1.55a1.62 1.62 0 0 1-1 1.235l-140.705 57.863c-3.676 1.504-8.039.824-11.115-1.713-4.917-4.05-10.074-8.995-15.331-14.696-1.851-2.015-1.47-4.279-1.22-5.16.254-.895 1.135-3.054 3.816-3.772 1.58-.422 3.201-.827 4.852-1.244 8.74-2.195 18.644-4.684 29.538-10.987 22.33-12.915 15.017-35.707 12.47-43.641-2.565-8.031-8.343-11.919-20.999-20.44l-6.193-4.156c-12.215-8.138-20.289-13.514-23.636-30.018-3.506-17.247 4.767-35.443 19.25-42.328 6.662-3.166 15.551-6.414 25.846-10.175 14.561-5.315 31.059-11.342 48.502-19.655 19.148-9.13 26.922-20.15 30.073-27.79a10.335 10.335 0 0 0-.9-9.615c-2.066-3.143-5.663-4.876-9.414-4.455-16.252 1.816-51.748 7.028-71.462 9.974a58.318 58.318 0 0 0-21.005 7.422c-20.09 11.804-62.168 38.651-79.331 49.643-3.812 2.446-8.639 2.984-12.89 1.413-4.633-1.708-8.56-3.524-11.661-5.395-3.042-1.84-4.912-4.103-5.412-6.544-.44-2.156.19-4.564 1.77-6.777.956-1.343 1.741-1.454 2.402-1.454 2.13 0 4.972 1.74 6.193 2.484l.6.376c2.736 1.712 7.823 4.9 13.641 4.897 4.152 0 9.95-1.642 14.011-9.46 3.332-6.412 3.271-14.022-.16-20.878-4.662-9.314-14.606-15.945-26.607-17.741-11.655-1.741-24.816 3.435-33.865 13.268-6.828 7.414-10.415 16.494-9.85 24.905l18.634 276.007a1.82 1.82 0 0 1-1.02 1.758l-85.62 40.82-1.245.837c-4.492 4.09-9.61 10.604-15.212 19.359-1.99 3.103-2.15 6.881-.425 10.109 1.731 3.235 5.022 5.245 8.584 5.245 1.336 0 2.651-.28 3.912-.83 61.903-27.052 371.598-162.394 389.161-170.146 11.926-5.263 21.7-16.983 25.512-30.587 3.62-12.923 1.56-25.963-5.798-36.72z"
+    },
+    "JPN": {
+      "name": "Suzuka International Racing Course",
+      "city": "Suzuka, Mie Prefecture",
+      "country": "Japan",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "length": 5.807,
+      "laps": 53,
+      "raceDistance": 307.471,
+      "corners": 18,
+      "smZones": 3,
+      "lapRecord": {
+        "time": "1:30.983",
+        "driver": "Lewis Hamilton",
+        "team": "Mercedes",
+        "year": 2019
+      },
+      "firstGP": 1987,
+      "char": [
+        "downforce",
+        "power",
+        "fast"
+      ],
+      "slow": 3,
+      "med": 6,
+      "fast": 9,
+      "topSpeed": 326,
+      "avgSpeed": 230,
+      "elevation": 42,
+      "bio": "Suzuka is widely regarded as the greatest racing circuit in the world. Its unique figure-eight layout creates a flowing sequence of high-speed corners \u2014 Esses, Dunlop, Degner, 130R \u2014 that punish the slightest error. It is one of only two crossover circuits in F1. Drivers consistently rank Suzuka as their favourite. Championships are frequently decided here, and the passionate Japanese fans create an electric atmosphere unlike any other venue.",
+      "tyreWear": "Medium \u2014 high-speed nature loads front tyres through sustained lateral g",
+      "keyCorner": "Spoon Curve \u00b7 130R (taken flat in qualifying) \u00b7 Casino Triangle chicane",
+      "weather": "Early spring \u2014 cool, risk of rain increases Saturday",
+      "notable": [
+        "1989/90 Senna vs Prost title collisions here",
+        "130R taken flat by modern cars",
+        "Figure-eight crossover unique in F1",
+        "Verstappen clinched 2022 WDC here"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2024,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2019,
+          "driver": "V. Bottas",
+          "team": "Mercedes",
+          "pole": "L. Hamilton"
+        }
+      ],
+      "p": "M214.902 264.546c-4.263.328-5.803-.797-6.964-6.36-1.16-5.565-10.35-52.063-12.284-61.7-1.12-5.576-.962-14.257 1.644-19.872 2.999-6.458 5.822-12.607 7.255-15.698 1.836-3.975.773-6.955-2.322-8.247-2.978-1.244-5.03-.101-7.35 4.074-2.322 4.173-12.672 21.262-15.283 25.733-2.153 3.687-8.92 17.507-26.309 19.871-10.163 1.38-19.687 1.207-28.146-.199-7.964-1.324-15.005-3.757-20.119-6.358-17.369-8.84-26.889-12.917-38.592-41.034-6.216-14.93-8.706-20.865-9.866-24.045-1.16-3.18-6.259-10.384-16.25-9.637-5.32.397-8.334.725-13.348 1.987-9.865 2.484-14.279 11.485-11.026 20.368 3.675 10.035 7.145 12.684 21.666 23.845 27.276 20.965 40.187 27.009 54.455 33.086 18.664 7.949 100.496 37.755 115.585 42.823 8.293 2.785 13.156 3.078 23.89-1.69 14.312-6.358 24.468-14.207 34.047-24.242 9.108-9.546 20.215-18.976 30.565-27.522 3.32-2.742 4.453-1.049 5.706.199 3 2.98 3.77 3.676 5.32 4.967 1.752 1.463 2.812 1.8 4.836.1 2.128-1.789 6.544-5.557 7.643-6.258 8.992-5.762 12.435-7.209 19.143-5.619 1.707.405 3.45.887 5.23 1.446 13.93 4.372 17.894 8.247 32.694 25.634 8.66 10.175 94.452 116.714 100.98 124.992 7.834 9.934 7.94 13.91 6.482 23.744-1.546 10.433-6.74 21.182-17.704 19.971-8.994-.993-11.294-7.23-14.509-12.32-3.577-5.663-9.067-15.082-13.154-21.461-5.028-7.85-5.807-13.238-19.345-13.91-14.025-.695-19.964-2.105-23.407-17.685-.967-4.372-1.38-5.691-3.289-12.32-2.513-8.744-8.513-14.227-18.764-13.811-14.702.596-23.273-2.344-27.661-12.519-3.772-8.743-.236-15.137 1.933-20.765 1.837-4.77 6.382-16.195 2.71-23.35-3.676-7.153-7.966-9.22-12.866-11.524-5.707-2.683-17.812-8.054-30.855-6.757-14.994 1.49-27.083 9.837-35.207 20.17-6.979 8.877-17.12 21.656-19.442 24.839-2.321 3.181-3.96 3.926-6.287 4.173-6.577.693-23.699 2.285-31.435 2.881z"
+    },
+    "MIA": {
+      "name": "Miami International Autodrome",
+      "city": "Miami Gardens, Florida",
+      "country": "USA",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
+      "length": 5.412,
+      "laps": 57,
+      "raceDistance": 308.326,
+      "corners": 19,
+      "smZones": 5,
+      "lapRecord": {
+        "time": "1:29.708",
+        "driver": "Max Verstappen",
+        "team": "Red Bull",
+        "year": 2023
+      },
+      "firstGP": 2022,
+      "char": [
+        "street",
+        "power",
+        "overtake"
+      ],
+      "slow": 6,
+      "med": 8,
+      "fast": 5,
+      "topSpeed": 320,
+      "avgSpeed": 217,
+      "elevation": 0,
+      "bio": "Built around Hard Rock Stadium, Miami became an instant hit with its party atmosphere and entertainment-first approach. The circuit winds through car parks and service roads, featuring a fake marina complete with fake yachts \u2014 a very American take on Monaco glamour. Norris won his first-ever F1 race here in 2024, an emotionally charged moment. The high-speed Turn 17 complex and long back straight create genuine overtaking opportunities.",
+      "tyreWear": "High \u2014 abrasive surface and intense Florida heat degrade tyres rapidly",
+      "keyCorner": "Turn 14 (heavy braking, overtaking spot) \u00b7 Turn 17 (high-speed complex)",
+      "weather": "Hot and humid \u2014 Florida sun, occasional storm threat",
+      "notable": [
+        "Norris first F1 win 2024",
+        "Sprint weekend \u2014 5 Straight Mode zones in 2026",
+        "Fake marina spectator area",
+        "Temperature regularly exceeds 35\u00b0C trackside"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        }
+      ],
+      "p": "M253.178 217.953s37.841 21.485 43.997 24.88c6.096 3.396 9.778 7.26 9.597 9.835-.182 2.518-2.777 5.913-5.613 7.61-2.777 1.698-7.665 4.04-9.596 6.616-1.932 2.517-3.501 4.566-3.682 11.006-.181 6.44-.181 11.532-1.57 15.396-1.146 3.161-5.25 10.479-19.312 15.22-13.64 4.567-17.925 3.513-29.211 3.22-10.441-.292-20.762-5.912-20.762-5.912s-53.774-29.622-58.965-32.49c-5.25-2.87-13.64-4.391-20.4-2.87-7 1.523-8.81 2.928-12.734 5.738-3.259 2.342-8.027 5.913-12.553 6.44-4.527.526-10.2.234-14.666-1.698-4.044-1.756-9.415-7.142-12.01-9.835-2.595-2.693-8.148-6.264-16.054-6.44-6.458-.175-20.64 1.347-28.789 10.713-3.38 3.864-5.854 6.85-5.854 14.284 0 5.503 5.19 12.88 10.2 12.938 10.2.176 7.725-1.288 15.51-1.522 9.597-.293 13.64.702 19.012 2.693 5.371 1.99 20.218 5.503 28.124 5.561 10.502.117 73.692-1.17 77.856-1.17 10.38-.06 18.83 2.048 25.107 4.741 6.277 2.693 19.192 8.606 24.443 10.128 5.25 1.522 14.666 5.093 28.97 4.917 14.303-.175 39.953-1.697 54.438-6.79 14.485-5.094 60.051-20.139 72.967-25.583 12.916-5.444 39.29-18.03 44.661-21.485 3.38-2.166 5.432-3.395 5.613-6.44.181-3.043-4.888-6.439-7.484-7.61-2.595-1.17-4.466-1.931-7.664-4.566-3.5-2.868-5.13-6.146-5.13-9.717 0-6.616 4.526-11.475 10.018-11.65 3.5-.117 14.183.175 17.14-.351 2.958-.527 7.303-2.05 9.597-5.562 2.293-3.512 4.949-8.722 5.794-10.01 1.448-2.166 1.026-3.396-1.57-4.567-2.595-1.17-4.043-3.044-2.776-6.615 1.268-3.57 3.742-13.347 4.225-15.923.422-2.4-.181-5.561-3.863-5.561-4.707 0-118.654-4.215-132.777-4.567-14.364-.234-209.968-7.61-232.963-8.898-7.242-.41-8.932 3.805-8.45 5.971.906 4.04 11.166 10.655 17.443 14.226 6.276 3.57 8.57 4.39 16.054 4.742 7.483.35 11.89-1.698 16.054-4.215 4.164-2.518 12.734-7.26 22.873-9.484 7.182-1.58 20.4-1.288 25.47-.527 7.181 1.112 14.303 4.04 20.76 7.61 6.459 3.572 48.525 27.573 48.525 27.573z"
+    },
+    "MAD": {
+      "name": "Madrid Street Circuit (IFEMA)",
+      "city": "Madrid",
+      "country": "Spain",
+      "flag": "\ud83c\uddea\ud83c\uddf8",
+      "length": 5.47,
+      "laps": 56,
+      "raceDistance": 306.32,
+      "corners": 21,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "\u2014",
+        "driver": "TBC",
+        "team": "\u2014",
+        "year": 2026
+      },
+      "firstGP": 2026,
+      "char": [
+        "street",
+        "power",
+        "overtake"
+      ],
+      "slow": 7,
+      "med": 8,
+      "fast": 6,
+      "topSpeed": 320,
+      "avgSpeed": 195,
+      "elevation": 15,
+      "bio": "Madrid's maiden Formula 1 Grand Prix replaces Imola on the 2026 calendar, becoming the second Spanish race alongside Barcelona-Catalunya. The circuit is built around the IFEMA convention and exhibition centre in the east of the capital, with long straights and technical slow corners expected to create overtaking opportunities. Madrid becomes the first new street circuit in Europe since Monaco, and the passionate Spanish crowd \u2014 including fans of Fernando Alonso \u2014 will create a unique atmosphere for a debut grand prix.",
+      "tyreWear": "Unknown \u2014 new circuit. Street surface expected to be green initially, evolving dramatically across the weekend",
+      "keyCorner": "T1 (heavy braking) \u00b7 IFEMA complex \u00b7 Final chicane",
+      "weather": "Hot and sunny \u2014 mid-September Madrid, 28\u201332\u00b0C",
+      "notable": [
+        "First ever Madrid Grand Prix",
+        "Replaces Imola (Emilia-Romagna) off the 2026 calendar",
+        "Second Spanish race alongside Barcelona-Catalunya",
+        "Built around IFEMA Madrid exhibition centre"
+      ],
+      "recentWinners": [
+        {
+          "year": 2026,
+          "driver": "TBC",
+          "team": "\u2014",
+          "pole": "TBC"
+        }
+      ],
+      "p": "M130.321 338.227c-3.32.594-4.154 4.666-2.204 7.041 1.953 2.373 4.907 5.042 5.492 10.38.586 5.338.976 10.999 1.22 16.683.2 4.648-1.448 10.698-6.468 11.493-7.81 1.236-54.176 9.162-60.036 10.133-6.712 1.113-13.62-1.655-14.398-6.798-.781-5.14-22.404-141.414-23.185-145.566-.779-4.152-2.075-5.067-6.712-5.19-5.004-.132-8.317-2.16-8.542-7.291-.244-5.562-.488-12.357-.488-16.189 0-7.786 5.369-16.806 15.498-22.984 5.537-3.379 78.226-48.87 89.078-55.607 18.914-11.74 45.539-16.623 65.771-14.581 21.518 2.173 31.606 11.493 35.755 15.57 1.99 1.957 5.59 3.584 9.884.619 4.298-2.966 6.065-2.08 11.227-3.213 3.727-.819 13.633-3.614 16.107-4.449 5.857-1.977 16.062-12.956 26.236-14.828 8.054-1.483 16.718-2.349 22.94-5.437 3.661-1.817 5.172-.975 8.177 2.965 5.37 7.045 12.325 5.438 19.159.62 5.537-3.906 11.54-6.007 20.379-5.81 16.474.372 82.404 1.94 91.518 1.855 25.992-.247 40.525 24.758 37.95 42.014-3.783 25.333-34.778 40.409-57.23 22.49-8.942-7.136-50.284-39.851-59.183-47.576-6.833-5.931-14.521-3.831-17.45.125-5.2 7.02-16.351 22.49-20.867 28.546-1.9 2.546-5.125 5.314-10.982 5.314h-29.042c-20.367 0-30.629 19.03-31.238 32.5-.445 9.836-.594 23.109-.732 28.174-.123 4.449.816 7.444 4.393 12.235 3.783 5.067 1.587 6.797-3.052 9.638-3.307 2.027-25.018 13.365-33.314 18.166-9.396 5.437-11.99 15.552-8.176 28.793.855 2.966 1.943 5.617 2.452 7.655 3.65 14.587-7.84 28.68-20.879 30.899-19.059 3.234-69.058 11.611-69.058 11.611z"
+    },
+    "MON": {
+      "name": "Circuit de Monaco",
+      "city": "Monte Carlo",
+      "country": "Monaco",
+      "flag": "\ud83c\uddf2\ud83c\udde8",
+      "length": 3.337,
+      "laps": 78,
+      "raceDistance": 260.286,
+      "corners": 19,
+      "smZones": 2,
+      "lapRecord": {
+        "time": "1:12.909",
+        "driver": "Lewis Hamilton",
+        "team": "Mercedes",
+        "year": 2021
+      },
+      "firstGP": 1929,
+      "char": [
+        "street",
+        "downforce"
+      ],
+      "slow": 9,
+      "med": 7,
+      "fast": 3,
+      "topSpeed": 292,
+      "avgSpeed": 161,
+      "elevation": 42,
+      "bio": "The jewel in Formula 1's crown and the most famous race in motorsport. Monaco has hosted the Grand Prix since 1929 \u2014 the circuit has barely changed. The streets of the principality are impossibly narrow; barriers replace run-off; a moment's loss of concentration ends races. Overtaking is nearly impossible, making qualifying the race. Senna won here 6 times. The tunnel, Casino Square, Rascasse and Tabac are corners seared into motorsport mythology.",
+      "tyreWear": "Very low \u2014 slow speeds, cool conditions. Longest race despite shortest lap",
+      "keyCorner": "Sainte Devote (Turn 1) \u00b7 Casino Square \u00b7 Swimming Pool complex \u00b7 Rascasse",
+      "weather": "Mediterranean \u2014 warm and usually dry",
+      "notable": [
+        "Oldest GP on calendar (since 1929)",
+        "Senna won 6 times",
+        "Overtaking almost impossible \u2014 qualifying is the race",
+        "Narrowest circuit in F1 \u2014 mirror-width barriers"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2024,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "S. P\u00e9rez",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        }
+      ],
+      "p": "M118.34 246.687c-5.14.774-6.994 2.392-9.853 7.317-4.586 7.898-9.192 18.211-11.413 27.357-2.486 10.243-2.829 25.557-1.95 39.458.445 7.034 2.23 10.04 8.243 12.045 7.17 2.387 8.339 2.488 9.949 9.801 1.61 7.319 6.389 33.36 8.047 42.434 1.188 6.495 2.042 8.91-3.805 11.704-6.436 3.07-7.9 3.95-6.729 9.07 1.17 5.12 6.805 23.714 11.023 30.435 11.51 18.336 19.262 23.945 27.311 26.726 5.165 1.784 11.935 2.284 13.315 7.946 1.317 5.416 1.181 7.937-2.341 9.074-13.167 4.244-26.043 5.56-38.334 5.268-4.24-.102-4.829-.294-4.245-5.56.442-3.967.44-9.514-3.803-14.047-3.322-3.553-10.24-13.756-16.093-28.531-9.486-23.955-16.97-48.602-19.168-60.132-2.924-15.363-5.422-36.152-6.435-49.746-1.903-25.458-.928-45.988 3.217-55.89 5.267-12.585 6.437-17.12 5.999-21.07-.878-7.9-.355-10.97 4.242-12.437 14.192-4.535 27.36-4.242 37.456-5.852 10.094-1.609 27.134-4.495 33.651-6.439 8.34-2.486 23.423-7.227 36.577-9.363 11.704-1.903 21.801-3.073 32.774-8.34 6.195-2.974 21.8-11.119 28.384-13.169 6.585-2.046 18.713-4.606 25.75-6.143 8.048-1.759 17.221-3.118 23.994-4.534 9.32-1.953 25.118-13.113 27.46-27.898 2.535-15.996-2.563-24.582-12.876-33.749-7.022-6.243-11.658-11.657-12.68-15.461-1.987-7.38.472-12.368 3.803-16.97 4.974-6.877 50.625-68.034 53.99-72.277 3.366-4.244 6.436-3.658 9.95-.88 3.509 2.783 7.415 5.432 7.023 10.39-.438 5.56-.515 9.95 1.757 13.607 2.632 4.244 3.365 5.121 6.585 9.51 2.136 2.914 3.949 5.707 5.121 9.51 1.097 3.565 6.103 5.143 8.922 2.633 2.632-2.341 3.073-6.585-.876-9.51-1.636-1.211-3.58-2.506-5.269-5.12-2.926-4.537-5.415-7.9-7.168-10.681-1.389-2.204-3.13-11.026 2.778-12.73 8.632-2.487 19.607-5.853 25.31-7.608 2.719-.835 11.123-.146 11.123 8.34 0 8.485-.294 17.848-1.17 25.896-.394 3.597-3.482 47.7-22.192 77.593-23.132 36.952-62.28 63.471-70.912 68.28-19.604 10.923-39.682 17.952-46.525 19.703-12.584 3.218-28.287 4.485-42.725 6.437-3.529.476-5.299 3.87-5.074 5.463.586 4.098-.946 5.21-4.484 5.852-8.585 1.563-10.73 2.731-12.486-.388-1.8-3.2-3.085-2.424-7.805-1.759-15.215 2.147-86.663 12.827-97.344 14.435z"
+    },
+    "BCN": {
+      "name": "Circuit de Barcelona-Catalunya",
+      "city": "Montmel\u00f3, Barcelona",
+      "country": "Spain",
+      "flag": "\ud83c\uddea\ud83c\uddf8",
+      "length": 4.657,
+      "laps": 66,
+      "raceDistance": 307.236,
+      "corners": 14,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:16.330",
+        "driver": "Max Verstappen",
+        "team": "Red Bull",
+        "year": 2023
+      },
+      "firstGP": 1991,
+      "char": [
+        "downforce",
+        "tyre"
+      ],
+      "slow": 4,
+      "med": 6,
+      "fast": 4,
+      "topSpeed": 315,
+      "avgSpeed": 207,
+      "elevation": 30,
+      "bio": "Barcelona-Catalunya is the most scrutinised circuit on the calendar \u2014 it has been the pre-season testing venue for decades, so every team arrives knowing every bump. In 2026 the Spanish Grand Prix moved to Madrid's new street circuit, but Barcelona-Catalunya continues as a separate race called the Barcelona-Catalunya Grand Prix. The long Turn 3 sweeper and technical final sector demand aero balance. Alonso won here twice to enormous Spanish home support.",
+      "tyreWear": "High \u2014 abrasive tarmac and sustained high-g loads degrade all four compounds",
+      "keyCorner": "Turn 3 (long medium-speed left) \u00b7 Turn 9 (chicane) \u00b7 Turn 10 (fast right)",
+      "weather": "Hot and sunny \u2014 mid-June Mediterranean heat",
+      "notable": [
+        "Pre-season testing venue \u2014 teams know it inside out",
+        "Now separate from Spanish GP (which moved to Madrid)",
+        "Alonso won twice here for home crowd",
+        "Used as aero development benchmark"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "G. Russell",
+          "team": "Mercedes",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2024,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2021,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "L. Hamilton"
+        }
+      ],
+      "p": "M436.09 105.316c-11.496 18.032-213.437 339.032-220.733 350.704-6.656 10.65-17.427 12.344-24.445 7.624-6.155-4.14-7.935-5.411-11.658-7.585-3.59-2.097-14.448-4.739-24.849 2.904-10.811 7.948-17.856 13.285-28.116 20.533-15.249 10.77-45.437 5.85-57.241-10.287-15.49-21.177-16.04-55.243.243-81.808 9.197-15.004 45.986-73.94 51.553-82.048 6.839-9.961 17.184-12.223 29.044-6.455 16.679 8.111 18.514 37.238 11.375 48.81-7.988 12.948-36.407 59.453-39.815 65.348-8.956 15.49 5.28 27.61 18.998 21.178 7.745-3.632 43.566-20.937 50.1-24.204 12.586-6.292 19.247-13.666 26.464-21.096 5.486-5.647 22.675-32.663 27.148-39.531 3.388-5.204 2.783-15.49-5.084-20.574-5.388-3.482-9.197-5.687-12.061-7.664-2.637-1.82-7.983-5.663-12.264-15.45-3.388-7.745-25.17-59.177-28.316-67.406-3.98-10.41-1.676-24.194 7.503-34.127 1.917-2.074 7.728-6.638 17.105-11.296 23.397-11.617 72.137-36.55 78.499-39.774 10.155-5.149 61.318-32.028 86.434-45.203 3.296-1.728 6.809-4.904 8.925-8.711 1.8-3.243 1.889-10.257-3.74-15.182-12.322-10.782-26.568-9.388-36.378-6.747-7.628 2.054-11.725 4.671-16.092 8.181-3.904 3.139-7.62 6.124-12.647 10.18-4.182 3.374-21.542 4.84-28.924-5.325-7.752-10.674-7.48-23.381 2.54-31.829 9.238-7.785 38.362-32.07 46.713-38.846 3.286-2.667 16.224-6.485 24.993-4.126 8.917 2.647 16.077 6.158 24.31 11.174 11.264 8.52 6.556 4.618 17.915 11.996 9.637 6.263 18.666 12.172 23.827 15.606 11.941 7.955 23.257 28.164 8.674 51.036z"
+    },
+    "CAN": {
+      "name": "Circuit Gilles Villeneuve",
+      "city": "\u00cele Notre-Dame, Montr\u00e9al",
+      "country": "Canada",
+      "flag": "\ud83c\udde8\ud83c\udde6",
+      "length": 4.361,
+      "laps": 70,
+      "raceDistance": 305.27,
+      "corners": 14,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:13.078",
+        "driver": "Valtteri Bottas",
+        "team": "Mercedes",
+        "year": 2019
+      },
+      "firstGP": 1978,
+      "char": [
+        "power",
+        "overtake",
+        "street"
+      ],
+      "slow": 5,
+      "med": 5,
+      "fast": 4,
+      "topSpeed": 340,
+      "avgSpeed": 210,
+      "elevation": 0,
+      "bio": "Named after the legendary Gilles Villeneuve, this island circuit in the St. Lawrence River is one of the most dramatic on the calendar. Long straights separated by tight chicanes make it a high-power, high-overtaking track. The 'Wall of Champions' \u2014 the barrier at the final chicane \u2014 has destroyed title bids across the decades. Safety Cars are frequent. Rain often changes the race. Sainz's emotional win here for Williams in 2025 was one of the year's best stories.",
+      "tyreWear": "Low \u2014 slow chicanes and straights limit sustained cornering loads",
+      "keyCorner": "Hairpin (Turn 10) \u2014 prime overtaking spot \u00b7 Wall of Champions (Turn 13\u201314)",
+      "weather": "Unpredictable \u2014 can be scorching or raining in June",
+      "notable": [
+        "Wall of Champions claimed Schumacher, Hill, Villeneuve",
+        "Longest straight on calendar (1.1km)",
+        "Sainz won for Williams 2025 \u2014 emotional",
+        "Safety Car almost guaranteed"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "C. Sainz",
+          "team": "Williams",
+          "pole": "C. Sainz"
+        },
+        {
+          "year": 2024,
+          "driver": "G. Russell",
+          "team": "Mercedes",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2019,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "S. Vettel"
+        }
+      ],
+      "p": "M223.071 47.18c-2.536-11.336-4.35-19.461-5.519-25.208-.965-4.748 1.315-6.378 3.73-6.861 2.237-.448 4.69 1.63 5.07 6.115.597 7.01 1.045 10.441 1.641 16.11.352 3.346 1.416 7.836 4.624 14.468 2.238 4.624 6.862 13.871 12.679 28.638 2.265 5.75 12.827 32.666 15.512 39.676 1.843 4.812 4.475 14.32 5.52 20.137 1.043 5.817 24.312 118.88 31.173 151.843 1.025 4.926-1.742 6.349-2.983 7.01-2.237 1.194-3.729 2.686-2.834 7.757s18.197 84.722 19.39 90.39c1.194 5.668 3.282 16.259 2.835 27.744-.355 9.096-1.936 29.235-2.387 33.411-.596 5.52-.596 7.16 2.387 8.353 2.983 1.193 4.039 1.614 6.861 2.834 11.038 4.773 2.983 17.004-4.773 15.065-8.494-2.123-13.458-3.632-23.269-7.16-13.275-4.772-33.56-23.865-41.764-31.92-3.538-3.473-2.834-7.606-1.044-10.888 1.79-3.281 1.26-5.254-1.343-9.397-3.281-5.22-12.411-17.275-15.512-20.136-3.878-3.58-7.56-5.592-11.187-7.906-7.01-4.475-12.53-14.02-12.53-23.268 0-7.017.597-31.622.746-36.544.15-4.923-1.496-8.826-6.264-9.1-5.22-.297-10.143 3.58-14.916.3-4.773-3.282-7.866-5.35-9.696-15.662-3.281-18.496-5.518-40.273-5.37-52.206.127-10.143 1.776-35.995 4.923-50.416 1.79-8.203 8.502-34.455 10.143-39.527 1.133-3.505 3.878-4.624 7.458-4.325 5.37.447 10.292-2.983 12.827-11.635 2.974-10.145 9.546-34.754 10.441-41.167.924-6.623 5.074-31.195 5.221-40.72.15-9.696-.1-18.247-1.79-25.805z"
+    },
+    "AUT": {
+      "name": "Red Bull Ring",
+      "city": "Spielberg, Styria",
+      "country": "Austria",
+      "flag": "\ud83c\udde6\ud83c\uddf9",
+      "length": 4.318,
+      "laps": 71,
+      "raceDistance": 306.452,
+      "corners": 10,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:05.619",
+        "driver": "Carlos Sainz",
+        "team": "Ferrari",
+        "year": 2020
+      },
+      "firstGP": 1970,
+      "char": [
+        "power",
+        "fast",
+        "overtake"
+      ],
+      "slow": 3,
+      "med": 4,
+      "fast": 3,
+      "topSpeed": 324,
+      "avgSpeed": 232,
+      "elevation": 65,
+      "bio": "The Red Bull Ring sits in the Styrian mountains and is one of F1's shortest but most action-packed circuits. With only 10 corners and 4 estimated Straight Mode zones it's pure power and spectacle \u2014 overtakes happen everywhere, aided by Overtake Mode on the main straight. The steep uphill run to Turn 1 and the fast Turns 6-7 complex are immediately recognisable. The circuit is owned by Red Bull, giving it a unique atmosphere. It often hosts two races in back-to-back weekends.",
+      "tyreWear": "Low to medium \u2014 few sustained high-load corners, cool mountain air helps",
+      "keyCorner": "Turn 1 (uphill braking) \u00b7 Turn 3 (Remus \u2014 fast right) \u00b7 Turn 6\u20137 (Rindt complex)",
+      "weather": "Warm but unpredictable \u2014 mountain storms develop quickly",
+      "notable": [
+        "Owned by Red Bull Group",
+        "Shortest circuit lap time in F1",
+        "Back-to-back race weekends used here",
+        "Niki Lauda's home GP \u2014 huge Austrian support"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2024,
+          "driver": "G. Russell",
+          "team": "Mercedes",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        }
+      ],
+      "p": "m460.715 363.195-2.743-3.298a30.761 30.761 0 0 0-12.787-9.099c-28.347-10.668-144.043-54.216-165.073-62.172-13.48-5.1-22.998-7.179-32.852-7.179-5.879 0-11.594.738-18.21 1.596l-2.824.363c-8.696 1.11-20.316 6.554-34.534 16.184-8.62 5.83-20.474 5.84-29.11.021a29.397 29.397 0 0 1-12.78-20.936l-7.272-61.646c-1.018-8.633 2.157-17.355 8.487-23.334l1.86-1.755c8.862-8.359 22.983-10.006 33.548-3.884 19.288 11.183 45.635 26.677 61.63 36.976 8.58 5.526 18.928 8.327 30.755 8.327 15.27 0 30.606-4.538 42.93-8.186l4.69-1.375c4.92-1.426 10.12-3.745 15.456-6.902 7.347-4.344 11.499-12.308 10.835-20.784-.664-8.476-6.007-15.705-13.948-18.86-23.266-9.244-52.174-22.847-67.334-30.133a141.215 141.215 0 0 1-18.173-10.464C231.21 121.637 175.9 87.962 144.892 69.226a249.483 249.483 0 0 0-42.344-20.384C85.92 42.69 66.59 36.02 53.302 31.505c-6-2.038-12.657.313-16.084 5.56-2.551 3.899-2.942 8.787-1.045 13.07l29.974 67.736a185.738 185.738 0 0 1 15.662 64.962c.59 10.464 1.068 21.278 1.45 31.462a620.098 620.098 0 0 0 12.985 104.718l21.938 103.591c2.045 9.648 10.025 16.85 19.858 17.92l259.13 28.244c1.606.175 3.22.303 4.833.359 2.082.068 4.089.102 6.026.102 18.269 0 30.411-2.982 37.379-5.485 7.615-2.736 12.981-9.75 13.67-17.87l5.856-69.273a18.422 18.422 0 0 0-4.22-13.406z"
+    },
+    "GBR": {
+      "name": "Silverstone Circuit",
+      "city": "Silverstone, Northamptonshire",
+      "country": "United Kingdom",
+      "flag": "\ud83c\uddec\ud83c\udde7",
+      "length": 5.891,
+      "laps": 52,
+      "raceDistance": 306.198,
+      "corners": 18,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:27.097",
+        "driver": "Max Verstappen",
+        "team": "Red Bull",
+        "year": 2020
+      },
+      "firstGP": 1950,
+      "char": [
+        "fast",
+        "downforce",
+        "power"
+      ],
+      "slow": 3,
+      "med": 6,
+      "fast": 9,
+      "topSpeed": 330,
+      "avgSpeed": 245,
+      "elevation": 15,
+      "bio": "Silverstone hosted the very first World Championship Grand Prix in 1950 and remains the spiritual home of Formula 1. The high-speed Maggotts-Becketts-Chapel complex is the most demanding sequence of corners in motorsport \u2014 drivers take six direction changes at over 280 km/h. Copse, Stowe and Club create the classic Silverstone flow. The British crowd is large, knowledgeable and passionate. Hamilton won here a record eight times.",
+      "tyreWear": "High \u2014 fastest average circuit speed punishes rubber through sustained loads",
+      "keyCorner": "Copse (flat in qualifying) \u00b7 Maggotts-Becketts-Chapel (360 km/h sequence) \u00b7 Stowe",
+      "weather": "Typically British \u2014 can change from sunny to wet within a lap",
+      "notable": [
+        "First ever World Championship GP \u2014 13 May 1950",
+        "Hamilton won 8 times at his home GP",
+        "Maggotts-Becketts complex \u2014 fastest sequence in F1",
+        "Sprint race weekend"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "C. Sainz",
+          "team": "Ferrari",
+          "pole": "C. Sainz"
+        },
+        {
+          "year": 2021,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "L. Hamilton"
+        }
+      ],
+      "p": "M187.132 258.577c2.83-3.815 6.413-9.565 13.577-10.593 13.554-1.944 21.828 1.404 35.111 3.348 16.012 2.344 24.823-.431 33.316-6.912 16.091-12.281 27.87-21.819 38.54-30.677 7.154-5.938 13.066-1.296 14.154 3.024 1.523 6.05 2.831 11.45 6.969 24.844 1.656 5.362 9.362 7.346 12.628.432 5.003-10.589 6.313-15.666 7.839-21.819 5.617-22.642-.695-28.128-2.83-30.029-29.832-26.571-120.874-108.733-128.253-115.577-10.017-9.29-28.416-4.536-29.233 4.861-.816 9.398-.899 12.315-1.306 17.985-.25 3.466-7.266 17.717-20.74 12.8-14.209-5.185-7.879-20.646-7.325-21.701 7.29-13.886 15.623-29.211 20.505-37.048 9.58-15.378 25.704-25.296 39.407-26.584 18.917-1.78 76.237-6.805 105.634-9.258 2.916-.243 5.556-.498 7.862-.65 7.843-.516 21.345 4.846 24.827 16.658 8.166 27.706 12.928 43.496 14.332 67.407 1.269 21.603 2.421 42.276 2.653 49.736.278 8.92 1.882 13.375 9.635 24.627.68.984 1.46 2.099 2.315 3.333 2.182 3.148 3.236 7.36-.247 16.434-3.793 9.88-9.554 20.467-9.145 29.812.546 12.475 4.325 13.683 9.363 19.66 10.017 11.882 7.186 25.707-4.62 32.755-4.323 2.58-8.564 4.969-12.364 7.211-9.437 5.57-13.513 9.501-18.29 19.28-12.957 26.518-83.893 152.682-99.075 173.203-12.588 17.013-38.433 10.532-43.659-6.643-1.42-4.666-16.26-30.392-20.577-34.403-10.234-9.505-16.766-16.417-20.25-21.17-3.42-4.668-7.676-9.398-13.882-17.337-2.815-3.6-6.621-5.117-10.615-.81-3.291 3.549-5.422 5.822-7.408 7.183-2.547 1.745-8.378 1.89-11.644-1.998-1.713-2.04-10.749-12.65-14.154-22.035-3.919-10.802-5.688-12.142 5.771-27.113 10.997-14.365 52.26-67.725 59.227-76.475 2.784-3.497 7.22-9.384 11.952-15.761z"
+    },
+    "BEL": {
+      "name": "Circuit de Spa-Francorchamps",
+      "city": "Stavelot, Li\u00e8ge",
+      "country": "Belgium",
+      "flag": "\ud83c\udde7\ud83c\uddea",
+      "length": 7.004,
+      "laps": 44,
+      "raceDistance": 308.052,
+      "corners": 19,
+      "smZones": 5,
+      "lapRecord": {
+        "time": "1:46.286",
+        "driver": "Valtteri Bottas",
+        "team": "Mercedes",
+        "year": 2018
+      },
+      "firstGP": 1925,
+      "char": [
+        "power",
+        "fast",
+        "downforce"
+      ],
+      "slow": 4,
+      "med": 6,
+      "fast": 9,
+      "topSpeed": 355,
+      "avgSpeed": 231,
+      "elevation": 104,
+      "bio": "Spa-Francorchamps is the longest, fastest and most loved circuit in Formula 1. The Ardennes forest setting, the 104-metre elevation change, and corners like Eau Rouge/Raidillon, Pouhon and Blanchimont are the stuff of motorsport legend. Eau Rouge \u2014 once flat out in 2017\u20132021, then a chicane was added for safety \u2014 is the single most iconic corner in F1. Weather changes lap by lap; it can be dry at one end and raining at the other.",
+      "tyreWear": "Medium \u2014 long straights rest tyres; Pouhon and Raidillon load them hard",
+      "keyCorner": "Eau Rouge / Raidillon (legendary uphill complex) \u00b7 Pouhon (double-apex fast left) \u00b7 Bus Stop chicane",
+      "weather": "Notoriously unpredictable \u2014 fog, rain, sun all possible in the same race",
+      "notable": [
+        "Longest circuit on calendar at 7.004km",
+        "Eau Rouge \u2014 most iconic corner in motorsport",
+        "104m elevation change",
+        "Rain is expected almost every year"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2024,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "C. Sainz",
+          "team": "Ferrari",
+          "pole": "C. Sainz"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        }
+      ],
+      "p": "M167.75 20.858c-3.075-5.364-.283-7.034 3.387-5.065 3.669 1.97 49.393 30.95 55.603 35.171 6.21 4.22 10.613 8.816 14.395 13.224 6.116 7.128 29.072 34.701 33.87 40.235 2.327 2.682 4.765 5.265 8.892 6.504.742.223 1.542.375 2.398.53 3.105.563 9.733 2.517 14.112 9.848 4.987 8.348 5.552 11.818 4.705 22.04-.49 5.916.164 11.615 2.258 14.631 5.08 7.316 15.721 22.54 22.956 32.545 8.75 12.099 16.935 28.98 20.322 40.235 3.387 11.255 41.49 144.622 43.467 152.5 1.975 7.878 4.009 9.705-5.504 15.334-4.516 2.673-8.435 6.431-6.774 13.787 1.27 5.628 9.744 26.446.846 32.639-2.08 1.447-48.41 32.702-57.014 38.265-5.222 3.377-12.385.885-15.242-4.08-2.856-4.964-3.503-11.631 4.093-15.897 5.927-3.329 9.314-5.205 25.685-14.96 3.995-2.38 6.181-7.751 3.198-14.442-2.634-5.909-7.55-20.755-9.972-27.574-5.645-15.897-10.43-48.422-14.254-69.216-1.552-8.44-7.338-16.882-19.193-18.007-2.61-.248-11.29-.844-18.77-.563-7.303.275-20.816 4.787-27.66 22.79-5.08 13.366-15.524 40.095-23.992 62.464-6.59 17.407-22.297 12.661-24.696 10.832-5.53-4.215-19.68-14.49-31.19 1.688-5.503 7.738-16.934 26.59-23.567 36.86-7.403 11.462-15.806 3.657-38.81-13.506-9.759-7.282-7.215-21.806-5.786-27.293 6.586-25.285 18.77-40.094 31.189-50.786s29.919-23.353 50.805-30.669c20.887-7.315 27.2-13.496 33.023-24.197 16.23-29.825 24.133-42.908 22.44-57.54-1.694-14.63-19.053-43.752-22.722-56.413-2.69-9.285-4.774-32.872-5.249-52.615-.083-3.47-.676-7.138 6.096-6.19 10.725 1.5 7.765-7.127 6.21-9.379-7.904-11.442-11.323-16.99-17.782-28.324-7.057-12.38-39.515-71.467-41.773-75.406z"
+    },
+    "HUN": {
+      "name": "Hungaroring",
+      "city": "Mogyor\u00f3d, Budapest",
+      "country": "Hungary",
+      "flag": "\ud83c\udded\ud83c\uddfa",
+      "length": 4.381,
+      "laps": 70,
+      "raceDistance": 306.63,
+      "corners": 14,
+      "smZones": 3,
+      "lapRecord": {
+        "time": "1:16.627",
+        "driver": "Lewis Hamilton",
+        "team": "Mercedes",
+        "year": 2020
+      },
+      "firstGP": 1986,
+      "char": [
+        "downforce",
+        "tyre"
+      ],
+      "slow": 5,
+      "med": 6,
+      "fast": 3,
+      "topSpeed": 310,
+      "avgSpeed": 193,
+      "elevation": 35,
+      "bio": "The Hungaroring is often compared to Monaco without the barriers \u2014 tight, twisty, low-speed and almost impossible to overtake on. It demands mechanical grip and tyre management above everything. The summer heat pushes track temperatures above 50\u00b0C, destroying rubber. Yet races here are rarely dull \u2014 strategy and chaos collide. Ocon's stunning win in 2021 came after Hamilton accidentally swallowed a magnet at lunch. Piastri's first victory came here in 2024.",
+      "tyreWear": "Very high \u2014 extreme summer temperatures and sustained cornering loads are punishing",
+      "keyCorner": "Turn 1 (overtaking opportunity) \u00b7 Turn 4 (long medium-speed right) \u00b7 Turn 11 (hairpin)",
+      "weather": "Extremely hot \u2014 mid-summer Budapest, track temperatures exceed 50\u00b0C",
+      "notable": [
+        "Piastri first win 2024",
+        "Ocon won 2021 after chaos",
+        "First GP behind Iron Curtain in 1986",
+        "Effectively Monaco without barriers \u2014 minimal overtaking"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "O. Piastri",
+          "team": "McLaren",
+          "pole": "O. Piastri"
+        },
+        {
+          "year": 2024,
+          "driver": "O. Piastri",
+          "team": "McLaren",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2021,
+          "driver": "E. Ocon",
+          "team": "Alpine",
+          "pole": "L. Hamilton"
+        }
+      ],
+      "p": "M43.944 288.61c-5.643-4.367-2.351-17.312 7.839-17.312 8.15 0 8.783.006 21.318.468 16.93.623 38.458 9.681 48.909 17.156 10.032 7.173 47.654 36.805 68.034 52.713 7.332 5.725 18.811 4.99 24.14-.623 7.314-7.703 9.092-14.349 3.762-24.33-3.685-6.903-13.482-24.953-18.497-34.934-2.575-5.122-2.821-10.916.627-18.091 5.205-10.83 38.563-79.069 52.044-107.608 3.4-7.196 9.965-16.649 13.168-20.899 4.233-5.614 10.502-13.568 15.205-19.495 3.072-3.87 3.8-7.379 2.352-12.632-2.666-9.67-13.19-46.313-15.676-54.74-3.448-11.697-1.698-22.81 8.151-29.163 8.465-5.459 18.34-4.678 24.14-1.403 7.576 4.278 7.995 4.523 12.698 7.33 4.703 2.807 11.815 8.669 15.36 12.32 8.936 9.202 31.666 33.218 40.445 42.888 3.863 4.256 3.608 6.55.158 10.293-3.45 3.743-7.303 6.797-5.331 14.504 2.195 8.576 11.134 42.886 13.327 49.748 2.194 6.863 7.532 11.755 15.99 12.477 10.972.936 18.807 1.737 24.14 2.34 13.794 1.559 20.064 12.426 18.497 23.08-1.881 12.788-5.745 39.62-6.896 47.254-1.881 12.477.156 20.118 6.113 29.163 5.958 9.045 14.42 21.367 20.692 30.411 5.34 7.703 7.064 22.91-.628 31.815-8.621 9.98-80.887 91.856-90.92 102.93-5.197 5.736-11.286 5.614-18.496-1.872-5.37-5.575-17.444-18.67-21.32-22.614-6.74-6.861-8.785-9.283-12.228-11.852-5.643-4.211-9.876-7.486-16.93-12.477-4.548-3.22-14.422-3.43-19.437 2.184-5.015 5.614-5.183 17.245 1.096 22.145 7.995 6.237 33.31 26.142 40.914 32.282 10.817 8.734 11.98 23.507 4.703 32.75-7.366 9.358-20.222 16.22-37.936 2.34-10.049-7.873-228.782-180.232-239.527-188.547Z"
+    },
+    "NED": {
+      "name": "Circuit Zandvoort",
+      "city": "Zandvoort, North Holland",
+      "country": "Netherlands",
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
+      "length": 4.259,
+      "laps": 72,
+      "raceDistance": 306.648,
+      "corners": 14,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:11.097",
+        "driver": "Max Verstappen",
+        "team": "Red Bull",
+        "year": 2021
+      },
+      "firstGP": 1952,
+      "char": [
+        "downforce",
+        "fast"
+      ],
+      "slow": 4,
+      "med": 5,
+      "fast": 5,
+      "topSpeed": 290,
+      "avgSpeed": 214,
+      "elevation": 12,
+      "bio": "Zandvoort returned to the calendar in 2021 after a 36-year absence, transformed with spectacular banked corners at Turns 3 and 14 that make it unlike anywhere else on the calendar. The circuit sits in dunes next to the North Sea. Verstappen's home race generates an extraordinary atmosphere \u2014 the entire grandstand is orange. **2026 is the final Dutch GP on the current calendar** as Zandvoort's contract expires. Fittingly, it will host its first-ever Sprint weekend, making the farewell even more special.",
+      "tyreWear": "Medium \u2014 banking reduces lateral tyre stress; damp sea air helps temperatures",
+      "keyCorner": "Hugenholt (T3 \u2014 banked corner) \u00b7 T14 (banked hairpin) \u00b7 Arie Luyendyk (T7)",
+      "weather": "Coastal \u2014 sea breeze keeps it cooler; afternoon showers common",
+      "notable": [
+        "FINAL Dutch GP \u2014 Zandvoort contract expires after 2026",
+        "First-ever Sprint weekend at Zandvoort",
+        "Returned to calendar 2021 after 36 years",
+        "Banked corners unique in modern F1",
+        "Enormous Orange Army atmosphere"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2024,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        }
+      ],
+      "p": "M21.069 357.833c1.298-3.172 2.643-6.403 4.005-9.703 39.95-96.747 102.157-247.306 119.655-289.933 3.898-9.5 13.163-13.63 23.395-9.5 7.133 2.878 10.938 7.388 12.269 15.545 1.314 8.052-2.023 13.112-5.136 22.264-4.375 12.858-8.062 21.928-13.314 34.737-4.565 11.131-8.748 22.264-9.13 36.082-.372 13.554-.299 18.144-.57 23.607-.57 11.515-4.946 18.903-18.07 23.797-11.036 4.116-19.445 6.953-26.765 9.625-1.385.507-21.738 7.073-16.317 23.482 6.249 18.915 23.516 12.476 24.897 12.061 15.203-4.553 47.601-15.05 61.552-19.45 10.043-3.166 34.618-2.687 52.782 1.92 11.556 2.929 31.293 9.03 49.644 9.5 18.735.48 49.833-20.823 58.678-27.156 8.845-6.334 25.772-12.533 39.469-11.994 21.969.863 51.066 3.037 60.96 3.742 13.506.96 37.51 9.447 43.938 33.01 5.706 20.919-1.52 36.273-8.178 46.158-8.541 12.678-20.542 29.076-26.249 40.016-3.437 6.589-12.174 24.375-19.503 39.417-4.837 9.93-9.028 16.623-32.613 14.32-11.761-1.15-36.85-4.875-62.578-28.019-8.75-7.87-7.989-18.233-4.755-22.07 6.896-8.183 14.836-12.283 23.396-13.434 21.706-2.92 24.918-2.303 53.638-13.243 13.996-5.329 17.746-17.038 15.788-27.636-2.093-11.325-9.892-17.658-23.777-19.577-42.12-5.824-79.576-3.528-110.13 2.304-42.225 8.06-79.517 23.968-116.977 43.373-14.076 7.294-15.977-1.727-20.16-10.364-3.746-7.729-11.831-9.875-19.213-7.87-9.89 2.688-12.487 9.57-11.601 15.162 2.853 18.04 16.166 95.962 20.16 117.456 3.164 17.024-2.852 36.465-27.77 37.234-15.79.488-29.415.122-50.785-2.879-15.026-2.11-34.119-17.863-40.896-34.546-4.754-11.709-10.841-30.324.26-57.438Z"
+    },
+    "ITA": {
+      "name": "Autodromo Nazionale di Monza",
+      "city": "Monza, Lombardy",
+      "country": "Italy",
+      "flag": "\ud83c\uddee\ud83c\uddf9",
+      "length": 5.793,
+      "laps": 53,
+      "raceDistance": 306.72,
+      "corners": 11,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:21.046",
+        "driver": "Rubens Barrichello",
+        "team": "Ferrari",
+        "year": 2004
+      },
+      "firstGP": 1950,
+      "char": [
+        "power",
+        "fast",
+        "overtake"
+      ],
+      "slow": 3,
+      "med": 3,
+      "fast": 5,
+      "topSpeed": 363,
+      "avgSpeed": 260,
+      "elevation": 15,
+      "bio": "Monza is the fastest circuit in Formula 1 \u2014 the Temple of Speed. Teams strip aerodynamic downforce to the bone here, running the lowest drag configurations of the season. The long straights and three chicanes create a brutal back-and-forth rhythm. The Tifosi \u2014 Ferrari's fanatical Italian fans \u2014 fill the grandstands orange and red every September. Gasly's miracle win here in 2020 for AlphaTauri was one of the greatest upsets in F1 history.",
+      "tyreWear": "Very low \u2014 minimal sustained cornering. Engine and brakes take the stress",
+      "keyCorner": "T1 chicane (braking from 363 km/h) \u00b7 Lesmo 1\u20132 \u00b7 Parabolica (final corner)",
+      "weather": "Late summer \u2014 warm and usually dry, can have sudden storms",
+      "notable": [
+        "Fastest average speed circuit in F1",
+        "Gasly miracle win 2020 for AlphaTauri",
+        "Tifosi \u2014 most passionate crowd in motorsport",
+        "Teams run minimum downforce \u2014 closest to dragster specification"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2024,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Sainz"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2021,
+          "driver": "D. Ricciardo",
+          "team": "McLaren",
+          "pole": "V. Bottas"
+        }
+      ],
+      "p": "M218.372 50.51c17.128-1.458 28.349-2.045 40.274-3.238 9.544-.954 18.648-.863 32.116-1.38 3.542-.136 3.729-.748 5.353-5.354 1.036-2.935 1.478-4.501 4.144-4.835 5.525-.69 9.921-1.651 11.443-2.091 14.149-4.09 33.715-10.744 48.213-17.291 6.233-2.814 20.461 2.978 21.497 16.187 1.036 13.21 3.53 38.46 4.015 45.973.518 8.029.022 9.197-4.533 11.655-9.842 5.31-36.237 19.593-46.102 25.511-14.892 8.936-29.224 17.864-38.59 26.03-10.102 8.806-73.808 64.464-80.377 70.318-3.39 3.023-6.907 6.216-12.087 10.705-3.24 2.809-2.08 5.871-1.38 10.878 1.035 7.425-.519 16.403-8.289 21.756-5.758 3.967-6.446 5.425-7.248 12.962-4.732 44.498-20.042 187.268-21.674 201.017-1.813 15.28-17.22 18.9-29.267 11.784-24.993-14.763-21.878-47.89-20.85-65.527.408-6.966 12.017-143.36 19.435-230.17.309-3.611.466-5.692 5.3-5.347 5.184.37 5.612-1.727 3.54-7.77-3.737-10.9-5.649-24.2-5.06-31.068 1.369-15.987 2.231-26.008 2.297-26.732 1.804-19.481 7.9-39.11 33.93-52.707 14.168-7.4 25.64-9.712 43.9-11.266z"
+    },
+    "AZE": {
+      "name": "Baku City Circuit",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "flag": "\ud83c\udde6\ud83c\uddff",
+      "length": 6.003,
+      "laps": 51,
+      "raceDistance": 306.049,
+      "corners": 20,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:43.009",
+        "driver": "Charles Leclerc",
+        "team": "Ferrari",
+        "year": 2019
+      },
+      "firstGP": 2016,
+      "char": [
+        "street",
+        "power",
+        "overtake"
+      ],
+      "slow": 8,
+      "med": 6,
+      "fast": 6,
+      "topSpeed": 368,
+      "avgSpeed": 210,
+      "elevation": 8,
+      "bio": "Baku's city circuit is F1's most unpredictable race venue. The 2.2km straight down to Turn 1 is the longest in Formula 1 \u2014 top speeds exceed 368 km/h \u2014 yet drivers must then navigate medieval castle walls with only centimetres to spare. Safety Cars are almost guaranteed. The 2026 Azerbaijan GP is notable for being held on a **Saturday** (not Sunday) following a request from the promoter to accommodate Azerbaijan's national Remembrance Day \u2014 a unique scheduling quirk in the calendar.",
+      "tyreWear": "High on brakes and front tyres \u2014 extreme braking from 368 km/h; rear tyres rest on the straight",
+      "keyCorner": "T1 (braking from 368 km/h \u2014 longest braking zone in F1) \u00b7 Castle section (2m wide \u2014 walls everywhere)",
+      "weather": "Late September \u2014 warm and usually dry",
+      "notable": [
+        "Longest straight in F1 at 2.2km",
+        "Narrowest section (castle walls) anywhere in F1",
+        "368 km/h top speed record",
+        "Safety Car almost guaranteed every year",
+        "2026 race held on a SATURDAY (Remembrance Day)"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2024,
+          "driver": "S. P\u00e9rez",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2023,
+          "driver": "S. P\u00e9rez",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2021,
+          "driver": "S. P\u00e9rez",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        }
+      ],
+      "p": "M461.985 52.498 427.394 15.65c-3.674-3.909-10.434-4.21-14.453-.63l-98.434 87.727a82.471 82.471 0 0 0-3.262 3.058l-55.24 54.7a9.213 9.213 0 0 0-.242 12.906l15.572 16.582-18.27 16.566c-1.063.881-26.136 21.765-34.667 38.79-1.974 3.93-1.146 8.64 2.045 11.714a45.109 45.109 0 0 0 3.35 2.958l-47.098 75.377-25.425-30.368c-2.763-3.263-7.588-4.394-11.524-2.719l-1.804.803c-2.22 1.013-2.73 1.288-4.08.951-2.582-.609-5.4-.148-7.242.28-.68.16-1.322.31-1.7.31-.625 0-1.793-1.194-2.133-1.56l-5.74-6.115c-3.477-3.693-9.843-4.013-13.653-.684-17.545 15.244-59.138 52.416-66.486 68.325-.838 1.81-1.326 3.803-1.441 5.926-.165 2.864-.658 12.69-.324 18.97.104 1.86.143 4.261.192 6.916.137 7.976.312 17.902 2.127 24.071 2.254 7.65 4.863 14.312 8.728 22.269 2.402 4.961 6.448 14.454 9.42 21.538.674 1.617.992 3.316.943 5.054l-.066 2.435c-.137 4.865 3.625 8.98 8.57 9.368l83.663 6.508.89.034c5.8 0 10.735-4.45 11.223-10.126.844-9.697 2.604-27.435 4.88-37.27a15.987 15.987 0 0 1 1.37-3.752l21.86-42.87c4.546-8.921 8.845-17.35 6.41-28.585l-.164-.776c-1.294-5.958-.203-12.09 3.07-17.266l45.974-72.76a10.89 10.89 0 0 1 1.848-2.208L461.399 68.564c4.633-4.27 4.896-11.48.586-16.066z"
+    },
+    "SGP": {
+      "name": "Marina Bay Street Circuit",
+      "city": "Marina Bay, Singapore",
+      "country": "Singapore",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "length": 4.94,
+      "laps": 62,
+      "raceDistance": 306.143,
+      "corners": 23,
+      "smZones": 5,
+      "lapRecord": {
+        "time": "1:35.867",
+        "driver": "Kevin Magnussen",
+        "team": "Haas",
+        "year": 2018
+      },
+      "firstGP": 2008,
+      "char": [
+        "street",
+        "downforce"
+      ],
+      "slow": 10,
+      "med": 8,
+      "fast": 5,
+      "topSpeed": 315,
+      "avgSpeed": 171,
+      "elevation": 0,
+      "bio": "Marina Bay is the only night race in Formula 1. Under 1,500 floodlights, the circuit snakes through the financial district, past the iconic Esplanade theatre and over the Anderson Bridge. It is the slowest average speed circuit on the calendar and demands the most physical effort from drivers \u2014 temperatures of 34\u00b0C and near-100% humidity turn the cockpit into a sauna. Safety Cars are frequent. **2026 is Singapore's first Sprint weekend**, adding extra drama to an already unpredictable event.",
+      "tyreWear": "High \u2014 bumpy surface and relentless cornering in extreme heat",
+      "keyCorner": "T5 (heavy braking) \u00b7 T10 (Turn into the tunnel) \u00b7 T13 (Anderson Bridge) \u00b7 T23 (Marina Bay hairpin)",
+      "weather": "Tropical night \u2014 34\u00b0C, 90%+ humidity. Rain is possible mid-race",
+      "notable": [
+        "Only night race in F1",
+        "Slowest average speed on calendar (171 km/h)",
+        "Most physically demanding race \u2014 2-hour cockpit sauna",
+        "Safety Car almost guaranteed"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2023,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2022,
+          "driver": "S. P\u00e9rez",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2019,
+          "driver": "S. Vettel",
+          "team": "Ferrari",
+          "pole": "S. Vettel"
+        }
+      ],
+      "p": "M461.432 325.308c3.546.215 6.228-.46 8.285-3.467 2.658-3.883 10.644-15.694 13.506-20.689 2.248-3.924 1.906-8.228 1.362-12.25-.547-4.022-21.779-162.674-22.394-167.042-.55-3.905-2.982-6.455-8.02-5.625-5.037.832-10.535.682-15.509-2.08-5.826-3.236-7.566-5.548-9.382-9.324-2.012-4.185-5.031-6.738-7.791-6.78-4.919-.079-7.416 3.389-7.87 6.78-.944 7.05-1.516 14.7-1.89 19.263-.454 5.547.59 16.212 1.816 20.65 1.226 4.438 6.726 21.596 9.38 32.207 2.657 10.608 5.068 21.644 6.355 28.2 1.816 9.246-5.447 26.66-19.82 25.58-16.56-1.243-96.96-6.878-104.994-7.571-7.76-.67-17.023-1.387-24.511-4.784-9.874-4.479-92.876-54.296-99.618-58.388-4.267-2.589-5.307-2.724-7.762 1.528-11.374 19.692-20.682 35.827-31.12 56.305-1.838 3.606-3.541 4.266-6.334 1.284-4.19-4.477-26.419-27.808-32.683-34.534-5.78-6.204-20.57-6.21-25.67 4.612-6.504 13.799-56.755 104.28-59.206 108.974-1.382 2.644-2.983 6.481-2.427 10.392.47 3.318 2.756 6.781 5.287 8.641 3.575 2.63 8.469 6.402 12.552 9.457 2.35 1.759 5.615 2.859 10.003 3.783 3.281.692 4.549 2.145 4.69 10.942.077 4.74.304 10.324.304 14.178 0 5.64 3.442 6.28 6.278 8.59 8.916 7.264 16.457 13.176 21.79 17.106 1.07.79 6.672 4.662 8.285 7.396 3.404 5.78 5.447 8.784 7.15 11.096 2.722 3.694 7.75 2.688 8.625-2.08 1.93-10.519 14.526-87.49 17.477-105.29.646-3.9 2.514-10.388 3.065-11.788.098-.25 17.789-43.744 18.355-45.218.646-1.68 1.17-2.659 1.277-2.918 1.153-2.766 3.802-3.986 7.49-.75 5.372 4.713 45.155 39.55 51.182 44.959 5.529 4.963 13.647 8.282 20.848 8.815 2.986.222 39.063 1.437 74.063 3.358 33.248 1.827 65.538 4.368 67.03 4.47 3.065.208 6.169 2.43 6.129 6.819-.115 12.367 4.653 19.533 14.98 20.457 5.903.526 74.874 4.459 79.437 4.736z"
+    },
+    "USA": {
+      "name": "Circuit of the Americas",
+      "city": "Austin, Texas",
+      "country": "USA",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
+      "length": 5.513,
+      "laps": 56,
+      "raceDistance": 308.405,
+      "corners": 20,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:36.169",
+        "driver": "Charles Leclerc",
+        "team": "Ferrari",
+        "year": 2019
+      },
+      "firstGP": 2012,
+      "char": [
+        "power",
+        "fast",
+        "downforce"
+      ],
+      "slow": 5,
+      "med": 8,
+      "fast": 7,
+      "topSpeed": 333,
+      "avgSpeed": 202,
+      "elevation": 40,
+      "bio": "COTA is American-built but European-inspired. Hermann Tilke designed it to incorporate elements of the world's greatest circuits \u2014 the Turn 1 uphill blind entry is inspired by Hockenheim; the Esses echo Maggotts-Becketts; the hairpin mirrors Istanbul. The result is a circuit that works on multiple levels. The passionate Texas crowd and incredible Austin atmosphere make race weekend one of F1's most entertaining. Sprint race weekend. Verstappen has dominated here.",
+      "tyreWear": "High \u2014 medium-speed corners and bumpy surface combine to stress all four compounds",
+      "keyCorner": "T1 (blind uphill entry \u2014 cars touch 0g) \u00b7 T12 (high-speed hairpin) \u00b7 T16\u2013T18 (fast complex)",
+      "weather": "October heat \u2014 30\u00b0C+ but cooling evening. Rain possible",
+      "notable": [
+        "Designed to blend world's great circuits",
+        "Sprint weekend \u2014 massive crowd atmosphere",
+        "Bumps at Turn 9 cause significant car movement",
+        "Texas crowd creates unique F1 atmosphere"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Sainz"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Sainz"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Hamilton"
+        }
+      ],
+      "p": "M463.201 42.551c-3.095-4.166-9.585-4.959-13.542-1.491-105.774 92.51-189.942 140.467-271.342 186.844l-1.43.818a8.786 8.786 0 0 0-4.448 7.319 8.868 8.868 0 0 0 3.861 7.726c10.004 6.86 18.037 11.893 24.491 15.937 9.44 5.913 15.39 9.643 19.06 13.81l-12.113 5.437c-1.335.598-2.524.903-3.537.903-1.238 0-2.939-.402-5.131-3.54l-4.563-6.535a13.107 13.107 0 0 0-5.448-4.483l-11.76-5.206a13.065 13.065 0 0 0-9.396-.459l-11.38 3.769c-3.1 1.023-5.339 3.555-5.99 6.772a9.12 9.12 0 0 0 2.897 8.64c6.81 5.996 14.065 10.876 21.083 15.595 7.814 5.256 15.205 10.224 20.324 15.78 1.003 1.77 5.673 10.775 4.745 22.995a9.66 9.66 0 0 1-2.139 5.317c-3.422 4.198-9.976 11.888-15.405 16.219a9.094 9.094 0 0 1-3.476 1.72c-2.734.69-8.336 1.847-15.156 1.847-3.105 0-6.165-.238-9.102-.709-.999-.161-2.029-.56-3.066-1.183l-47.373-28.484c-5.617-3.377-13.355-2.265-17.802 2.544l-48.214 52.06a10.688 10.688 0 0 0-2.47 10.18c1 3.624 3.746 6.404 7.344 7.44l211.465 60.794c.8.23 1.623.349 2.44.349h.004c3.202 0 6.146-1.782 7.68-4.652 1.537-2.871 1.379-6.22-.42-8.954-4.86-7.388-12.923-18.609-23.722-30.107-15.686-16.704-17.69-29.534-6.913-44.286 8.675-11.876 21.268-28.367 28.003-37.141a19.362 19.362 0 0 0 4.016-11.282l.466-15.142a19.583 19.583 0 0 1 6.562-14.018l.715-.63c7.37-6.527 10.504-16.54 8.18-26.134l-3.371-13.905c-.474-1.951-.171-4.007.844-5.789 2.62-4.578 8.053-13.095 15.02-18.7 1.572-1.26 3.69-1.957 5.968-1.957l26.805 1.295.957.022c8.28 0 15.724-5.263 18.53-13.093l8.343-23.295c1.584-4.427 5.797-7.398 10.481-7.398 1.941 0 3.789.498 5.5 1.482l7.665 4.404c3.18 1.826 7.308 1.64 10.303-.463l40.179-28.161a14.041 14.041 0 0 0 5.38-7.511L464.63 50.736c.84-2.853.317-5.836-1.428-8.185z"
+    },
+    "MEX": {
+      "name": "Autodromo Hermanos Rodriguez",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "flag": "\ud83c\uddf2\ud83c\uddfd",
+      "length": 4.304,
+      "laps": 71,
+      "raceDistance": 305.354,
+      "corners": 17,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:17.774",
+        "driver": "Valtteri Bottas",
+        "team": "Mercedes",
+        "year": 2021
+      },
+      "firstGP": 1963,
+      "char": [
+        "power",
+        "overtake"
+      ],
+      "slow": 5,
+      "med": 6,
+      "fast": 6,
+      "topSpeed": 370,
+      "avgSpeed": 206,
+      "elevation": 2240,
+      "bio": "Mexico City sits at 2,240 metres above sea level \u2014 the highest circuit on the F1 calendar. Thin air means engines produce less power and aerodynamic downforce is dramatically reduced; teams run maximum wing angles but still generate less grip than at sea level. Brakes must work in the thin air. The atmosphere inside the stadium section \u2014 where 50,000 fans pack into an outdoor concert setting around the final hairpin \u2014 is unmatched anywhere in sport.",
+      "tyreWear": "Low \u2014 thin air, smooth tarmac. Brakes suffer more than tyres",
+      "keyCorner": "T1 (braking from 370 km/h \u2014 longest brake zone in F1) \u00b7 Stadium section (T17 hairpin)",
+      "weather": "Warm days, cool evenings at altitude \u2014 ideal racing",
+      "notable": [
+        "Highest altitude circuit in F1 (2,240m)",
+        "Stadium section crowd creates concert atmosphere",
+        "P\u00e9rez passionate home crowd support",
+        "370 km/h top speed into Turn 1"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2024,
+          "driver": "C. Sainz",
+          "team": "Ferrari",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "V. Bottas"
+        }
+      ],
+      "p": "M68.115 74.569c20.465 2.901 314.544 46.249 376.858 55.798 3.924.6 15.237 2.752 23.971 4.728 2.288.518 3.041 4.923 2.867 8.43-.259 5.27-.8 13.839-1.432 22.789-.391 5.532-.13 5.927 4.303 7.245 1.817.539 3.416.948 5.867 1.58 3.11.803 4.726 2.649 4.434 5.533-.652 6.454-1.302 9.35-2.085 12.514-.653 2.634-4.638 9.707-5.115 10.52-14.661 24.978-76.417 129.197-82.64 138.987-5.007 7.877-7.396 11.41-11.93 18.376-4.89 7.507-5.282 16.202 2.542 18.772 7.059 2.316 8.243 2.674 11.344 3.753 6.26 2.174 7.353 3.848 7.236 8.102-.19 6.925-2.15 7.506-8.018 11.261-3.145 2.013-17.624 10.48-35.597 21.538-3.6 2.213-7.043 2.173-10.173-2.172-1.702-2.363-1.732-7.806-.979-12.054 5.477-30.824 15.062-81.406 18.973-100.175 2.626-12.597-6.455-18.574-21.711-21.143-8.476-1.428-15.164-7.935-17.798-15.412-4.106-11.657-9.395-18.187-21.515-18.771-8.215-.396-18.571-1.037-29.73-1.384-12.714-.396-21.32-6.125-22.297-17.19-.292-3.298-1.019-12.145-1.37-15.806-.586-6.127-.59-7.897-8.606-11.46-9.78-4.347-25.232-10.275-43.42-16.796-4.432-1.588-6.016-2.568-17.621-4.201-27.061-3.808-73.36-10.324-102.563-14.599-5.872-.859-4.278-1.88-4.278-6.755 0-3.28.13-26.213.391-37.014.1-4.126.193-7.575.064-11.329-.194-5.73-9.658-5.764-11.539-2.174-1.76 3.36-3.47 6.48-4.5 7.707-4.302 5.137-8.017 4.742-15.255.989-8.029-4.165-14.003-3.877-17.798-4.149-3.119-.225-6.454-.198-9.78-.395-3.385-.202-4.553-2.229-4.108-5.73 2.735-21.49 22.76-44.2 53.008-39.913z"
+    },
+    "BRA": {
+      "name": "Autodromo Jose Carlos Pace (Interlagos)",
+      "city": "S\u00e3o Paulo",
+      "country": "Brazil",
+      "flag": "\ud83c\udde7\ud83c\uddf7",
+      "length": 4.309,
+      "laps": 71,
+      "raceDistance": 305.879,
+      "corners": 15,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:10.540",
+        "driver": "Valtteri Bottas",
+        "team": "Mercedes",
+        "year": 2018
+      },
+      "firstGP": 1973,
+      "char": [
+        "power",
+        "fast",
+        "overtake"
+      ],
+      "slow": 4,
+      "med": 6,
+      "fast": 5,
+      "topSpeed": 330,
+      "avgSpeed": 212,
+      "elevation": 40,
+      "bio": "Interlagos is one of Formula 1's most atmospheric venues \u2014 the anti-clockwise layout, the packed grandstands, the S\u00e3o Paulo altitude and the history all combine into something unique. Senna's home race. The Curva do Sol and Jun\u00e7\u00e3o corners are taken at incredible speed. Drama is guaranteed; rain is frequent. Hamilton's miracle 2008 title win was decided on the final corner of the final lap here. Sprint race weekend. Bortoleto has an enormous home crowd to power him.",
+      "tyreWear": "High \u2014 anti-clockwise layout loads left-front tyre; altitude affects brake cooling",
+      "keyCorner": "Senna S (T1\u2013T2 complex) \u00b7 Curva do Sol (T4 \u2014 fast left) \u00b7 Jun\u00e7\u00e3o (T10)",
+      "weather": "Tropical \u2014 hot with afternoon thunderstorms almost certain",
+      "notable": [
+        "Hamilton 2008 title decided last corner last lap",
+        "Senna's home race \u2014 emotional atmosphere",
+        "Anti-clockwise layout (rare in F1)",
+        "Sprint weekend \u2014 Bortoleto home race"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "G. Russell",
+          "team": "Mercedes",
+          "pole": "K. Magnussen"
+        },
+        {
+          "year": 2021,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "V. Bottas"
+        }
+      ],
+      "p": "M216.38 19.757c-17.923 4.414-27.502 8.15-29.356 9.005-18.27 8.424-32.89 17.454-41.726 25.47-11.632 10.552-16.108 21.908-19.57 36.02-4.061 16.556-16.797 66.138-24.74 100.06-3.879 16.555-4.247 36.566-.185 54.032 3.524 15.153 37.757 148.06 49.417 194.762 1.78 7.131 2.858 12.295 3.572 14.637 8.863 29.109 24.428 39.214 37.388 24.74 8.308-9.274 18.861-24.656 28.248-16.462 19.385 16.917 45.557 20.194 66.374 12.915 21.845-7.637 33.093-22.602 38.726-34.564 4.023-8.55 6.926-21.201 8.912-28.198 6.46-22.788 58.489-213.536 68.181-249.148 2.697-9.903-6.611-23.196-20.735-26.199-14.069-2.988-16.616-3.274-33.787-6.003-33.892-5.386-48.923 19.7-55.18 27.97-17.862 23.606-59.473 79.48-73.875 99.81-7.299 10.304-12.254 15.556-18.693 19.171-6.871 3.86-11.492 4.98-18.693 5.457-15.733 1.045-43.48-8.05-47.171-28.154-.778-4.232-1.627-8.452-2.374-12.605-2.733-15.174-4.86-29.288-6.119-37.97-2.03-14.008 11.078-22.014 29.17-6.55 13.644 11.663 27.325 9.64 34.34-3.458 5.474-10.222 3.693-17.099-3.325-24.377-9.62-9.98-22.155-22.559-26.586-27.473-3.537-3.923-7.569-10.732-9.232-16.737-1.486-5.368-5.17-19.466-7.568-29.835-1.978-8.542 12.737-17.465 20.677-7.46 9.464 11.93 18.92 22.85 29.54 32.567 20.68 18.92 52.023 22.238 74.591-13.463 21.538-34.077 30.701-48.147 36.584-58.697 2.926-5.25.988-16.44-7.043-19.441-17.76-6.638-20.77-7.914-36.555-12.28-16.496-4.56-24.376-2.182-43.207 2.458z"
+    },
+    "LVS": {
+      "name": "Las Vegas Strip Circuit",
+      "city": "Las Vegas, Nevada",
+      "country": "USA",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
+      "length": 6.201,
+      "laps": 50,
+      "raceDistance": 309.958,
+      "corners": 17,
+      "smZones": 5,
+      "lapRecord": {
+        "time": "1:35.490",
+        "driver": "Oscar Piastri",
+        "team": "McLaren",
+        "year": 2024
+      },
+      "firstGP": 2023,
+      "char": [
+        "power",
+        "street",
+        "overtake"
+      ],
+      "slow": 5,
+      "med": 6,
+      "fast": 6,
+      "topSpeed": 345,
+      "avgSpeed": 212,
+      "elevation": 0,
+      "bio": "Formula 1 returned to Las Vegas in 2023 for a night race down the Strip \u2014 past the MGM Grand, the Bellagio fountains and the Sphere. At 6.2km it is one of the longest street circuits. The long straights and five estimated Straight Mode zones (available to all drivers) make it a high-speed spectacle but the cool November desert temperatures mean tyre warm-up is critical. Safety Cars are common and the midnight start time gives it an atmosphere unlike anything else in sport.",
+      "tyreWear": "High initially \u2014 desert cold makes tyres difficult to warm; abrasive new surface",
+      "keyCorner": "T1 (braking from 345 km/h) \u00b7 Fountain section (T12\u2013T14) \u00b7 T17 hairpin (overtaking spot)",
+      "weather": "Cool desert night \u2014 November temperatures around 15\u201320\u00b0C despite Las Vegas heat in summer",
+      "notable": [
+        "Night race down the Las Vegas Strip",
+        "Bellagio fountains visible from circuit",
+        "Cool desert temperatures \u2014 opposite of summer Vegas",
+        "6.201km \u2014 one of longest street circuits"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2024,
+          "driver": "C. Leclerc",
+          "team": "Ferrari",
+          "pole": "C. Leclerc"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "C. Leclerc"
+        }
+      ],
+      "p": "M44.554 308.699c5.621 2.881 52.896 30.75 61.836 35.774 7.261 4.082 18.085 9.124 31.856 14.165 21.976 8.045 37.495 12.32 56.449 15.126 21.08 3.122 32.091 4.52 44.738 5.282 7.963.48 26.891.171 58.557.96 57.855 1.441 148.06 2.882 150.61 2.882 1.873 0 3.123-.801 3.279-4.322.19-4.316 1.534-7.813 4.216-10.564 2.681-2.75 7.964-8.563 7.964-11.284 0-8.248.702-133.012.937-151.02.148-11.395-2.811-30.251-16.865-41.536-7.364-5.914-39.35-33.613-46.612-40.575-3.316-3.18-9.106-1.364-11.711 2.64-4.685 7.203-4.758 15.367 6.324 27.131 6.559 6.963 12.184 12.623 7.73 23.53-4.216 10.323-13.351 20.648-37.711 20.648-13.743 0-151.305.48-159.745.48-3.747 0-9.135-5.509-9.135-9.364 0-4.162-.234-19.048-.234-31.212 0-13.605-11.009-40.096-35.368-40.096-4.222 0-9.37-1.2-9.135 4.562.331 8.16-5.856 9.844-11.712 7.203-4.23-1.908-8.891-4.78-11.946-6.723-6.075-3.864-10.956 2.726-11.243 12.965-.61 21.762-2.012 52.195-2.576 64.345-1.171 25.21-10.557 39.821-32.09 44.658-24.09 5.41-34.476 14.223-40.025 26.134-4.714 10.12-6.23 20.945-7.742 29.763-1.655 9.648 7.227 7.357 9.354 8.448z"
+    },
+    "QAT": {
+      "name": "Lusail International Circuit",
+      "city": "Lusail",
+      "country": "Qatar",
+      "flag": "\ud83c\uddf6\ud83c\udde6",
+      "length": 5.38,
+      "laps": 57,
+      "raceDistance": 306.811,
+      "corners": 16,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:24.319",
+        "driver": "Max Verstappen",
+        "team": "Red Bull",
+        "year": 2023
+      },
+      "firstGP": 2021,
+      "char": [
+        "power",
+        "fast",
+        "tyre"
+      ],
+      "slow": 3,
+      "med": 6,
+      "fast": 7,
+      "topSpeed": 322,
+      "avgSpeed": 225,
+      "elevation": 0,
+      "bio": "Lusail is a high-speed technical circuit with flowing medium-to-fast corners that load tyres relentlessly. Originally built for MotoGP, its narrow layout and minimal run-off create an intense challenge. The extreme heat \u2014 track temperatures above 60\u00b0C at night \u2014 and the relentless rhythm of corners destroys rear tyres fast; the 2023 race saw multiple retirements due to tyre failures. Sprint race weekend. Qatar's growing F1 presence signals major financial investment in the sport.",
+      "tyreWear": "Extreme \u2014 high-speed cornering at 50\u201360\u00b0C track temperature destroys tyres. Multiple failures in 2023",
+      "keyCorner": "T1 (high-speed right) \u00b7 T6\u2013T8 (flowing medium-speed esses) \u00b7 T14 (hairpin \u2014 overtaking)",
+      "weather": "Hot desert night \u2014 35\u00b0C air, 60\u00b0C+ track. Dusty conditions can affect grip",
+      "notable": [
+        "Track temperatures exceed 60\u00b0C at night",
+        "2023 race \u2014 multiple tyre failures forced retirements",
+        "Sprint weekend",
+        "Originally a MotoGP venue \u2014 narrow and technical"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "G. Russell"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "O. Piastri"
+        },
+        {
+          "year": 2021,
+          "driver": "L. Hamilton",
+          "team": "Mercedes",
+          "pole": "M. Verstappen"
+        }
+      ],
+      "p": "M236.125 403.485c-49.465.116-97.022-1.042-143.961-1.175-27.707-.08-30.999-30.373-15.683-38.579 17.206-9.218 33.39-17.045 50.186-26.716 12.614-7.262 13.608-27.13-1.947-34.945-16.459-8.268-26.63-13.663-42.507-22.548-3.873-2.168-8.985-7.91-10.491-12.076-12.827-35.478-23.44-68.035-35.585-103.98-3.702-10.956 1.518-21.052 13.844-25.22 9.487-3.208 13.703-4.766 23.904-8.015 9.142-2.911 20.726 4.671 24.552 14.427 8 20.4 13.693 40.66 20.334 60.806 1.516 4.598 7.909 10.341 11.79 10.26 3.072-.065 8.963-2.794 9.518-6.52 4.844-32.513 9.567-65.009 13.736-97.46.85-6.612 7.809-11.83 12.655-13.893 4.528-1.927 11.25-.997 15.575 1.07 4.327 2.066 8.537 6.56 10.383 11.327 2.624 6.775 2.43 14.55 5.192 21.373 3.583 8.851 7.929 17.972 14.601 25.006 4.586 4.834 12.624 9.915 17.721 15.764 3.11 3.568 9.362 10.18 6.94 18.433-2.863 9.753-9.637 28.902-13.953 49.158-1.074 5.04 1.888 11.502 5.84 14.106 4.7 3.096 13.672 2.909 19.686 1.175 11.291-3.253 22.9-7.598 33.097-14.213 8.694-5.639 15.922-12.71 22.93-20.304 5.4-5.851 10.208-12.61 13.628-19.877 9.992-21.23 17.942-43.035 26.824-64.974 2.655-6.558 7.221-14.892 12.979-18.274 3.493-2.051 10.342-5.11 14.277-5.13 15.977-.074 24.919-.183 41.1.108 4.17.075 11.806 4.707 13.737 8.335 8.55 16.064 16.042 28.883 25.093 44.242 2.441 4.142 2.662 13.613-1.19 18.06-19.19 22.164-33.343 39.55-53.214 61.448-5.667 6.244-9.242 17.372-4.76 24.151 23.111 34.955 42.192 67.636 68.574 103.125 8.857 11.914-.043 29.737-14.818 29.815-71.385.376-138.336 1.54-210.587 1.71z"
+    },
+    "ABU": {
+      "name": "Yas Marina Circuit",
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "flag": "\ud83c\udde6\ud83c\uddea",
+      "length": 5.281,
+      "laps": 58,
+      "raceDistance": 306.183,
+      "corners": 16,
+      "smZones": 4,
+      "lapRecord": {
+        "time": "1:26.103",
+        "driver": "Max Verstappen",
+        "team": "Red Bull",
+        "year": 2021
+      },
+      "firstGP": 2009,
+      "char": [
+        "power",
+        "fast",
+        "overtake"
+      ],
+      "slow": 4,
+      "med": 6,
+      "fast": 6,
+      "topSpeed": 332,
+      "avgSpeed": 208,
+      "elevation": 0,
+      "bio": "Yas Marina closes the Formula 1 season every year with its spectacular sunset-to-night race. The circuit was redesigned in 2021 to eliminate the slow section and now flows much better. Four estimated Straight Mode zones (open to all drivers for efficiency) plus Overtake Mode on the main straight make overtaking possible. The hotel tower visible through the circuit, the yacht-lined marina and the final spectacular hairpin create the perfect backdrop for a season finale. The 2021 finale \u2014 Hamilton vs Verstappen decided in controversy with three laps to go \u2014 was one of sport's most dramatic moments.",
+      "tyreWear": "Medium \u2014 smooth tarmac and Straight Mode zones provide rest; medium-speed corners load evenly",
+      "keyCorner": "T5 (hairpin \u2014 Overtake Mode zone) \u00b7 T9 (hotel section) \u00b7 T21 (final hairpin \u2014 season-ending corner)",
+      "weather": "Warm desert evening \u2014 28\u00b0C with a desert breeze. Sunset to night race",
+      "notable": [
+        "Season finale \u2014 championship regularly decided here",
+        "Sunset to night race \u2014 spectacular lighting",
+        "2021 finale \u2014 Hamilton vs Verstappen \u2014 controversial Safety Car",
+        "Redesigned 2021 \u2014 much better racing since"
+      ],
+      "recentWinners": [
+        {
+          "year": 2025,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2024,
+          "driver": "L. Norris",
+          "team": "McLaren",
+          "pole": "L. Norris"
+        },
+        {
+          "year": 2023,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2022,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "M. Verstappen"
+        },
+        {
+          "year": 2021,
+          "driver": "M. Verstappen",
+          "team": "Red Bull",
+          "pole": "L. Hamilton"
+        }
+      ],
+      "p": "M191.25 155.874c16.09-47.466 35.643-104.64 45.341-132.916 2.862-8.345 16.92-14.272 19.337 4.301.344 2.64 2.21 16.484 2.667 19.807.833 6.081 4.058 31.57 5.334 42.735 1.334 11.67 1.167 23.34-.5 33.86-1.667 10.518-9.31 24.94-7.835 36.817.834 6.709 4.324 14.567 10.169 20.217 8.502 8.218 20.67 11.012 32.006 13.807 6.968 1.717 10.335 6.448 12.669 15.121 2.167 8.054 9.755 36.794 11.668 44.05 2.168 8.219-2.5 13.314-11.502 14.793-6.325 1.04-117.854 16.437-135.857 18.902-6.412.879-10.94 7.925-6.168 16.765 5.5 10.191 16.503 29.915 19.837 35.997 2.768 5.05 5.146 7.249 14.169 6.081 10.168-1.315 40.34-4.767 49.342-6.081 9.002-1.315 17.17-.33 22.004.821 4.349 1.035 3.334 3.945 3.334 7.232 0 3.288-.167 14.136-.333 20.71-.135 5.27-1.175 6.879-6.001 7.397-7.668.822-16.17 1.644-23.005 2.137-3.155.227-5.5 1.479-4.167 6.739 1.334 5.26 5.668 23.01 6.334 25.97.667 2.958 4.041 7.168 6.668 8.875 7.335 4.767 19.17 12.492 25.672 16.437 2.539 1.54 7.005 2.056 12.502 2.22 11.169.328 28.622 1.242 43.008 2.136 19.837 1.234 25.422 12.903 24.17 27.696-.498 5.906-6.167 12.82-9.39 15.232-1.86 1.392-10.629 1.589-13.453.32-14.756-6.629-45.618-20.811-56.67-25.96-5.264-2.453-23.389-13.853-30.34-19.177-11.946-9.151-49.07-39.375-59.844-48.16-8.668-7.067-13.909-12.658-20.337-24.326-7.334-13.313-11.335-26.627-14.002-39.94-.85-4.244-2.487-4.304-5.168-4.11-4.5.33-7.324.795-10.835.987-3 .164-5.461-.586-3.834-5.425 4.914-14.624 28.362-89.355 53.01-162.067z"
+    }
+  },
+  "DRIVER_TEAM_MAP": {
+    "russell": "Mercedes",
+    "antonelli": "Mercedes",
+    "leclerc": "Ferrari",
+    "hamilton": "Ferrari",
+    "norris": "McLaren",
+    "piastri": "McLaren",
+    "verstappen": "Red Bull",
+    "hadjar": "Red Bull",
+    "lawson": "Racing Bulls",
+    "lindblad": "Racing Bulls",
+    "bearman": "Haas",
+    "ocon": "Haas",
+    "gasly": "Alpine",
+    "colapinto": "Alpine",
+    "sainz": "Williams",
+    "albon": "Williams",
+    "alonso": "Aston Martin",
+    "stroll": "Aston Martin",
+    "hulkenberg": "Audi",
+    "bortoleto": "Audi",
+    "bottas": "Cadillac",
+    "perez": "Cadillac"
+  },
+  "CIRCUIT_ID_MAP": {
+    "albert_park": "AUS",
+    "shanghai": "CHN",
+    "suzuka": "JPN",
+    "bahrain": "BAH",
+    "jeddah": "SAU",
+    "miami": "MIA",
+    "villeneuve": "CAN",
+    "monaco": "MON",
+    "catalunya": "BCN",
+    "red_bull_ring": "AUT",
+    "silverstone": "GBR",
+    "spa": "BEL",
+    "hungaroring": "HUN",
+    "zandvoort": "NED",
+    "monza": "ITA",
+    "madrid": "MAD",
+    "baku": "AZE",
+    "marina_bay": "SGP",
+    "americas": "USA",
+    "rodriguez": "MEX",
+    "interlagos": "BRA",
+    "las_vegas": "LVS",
+    "losail": "QAT",
+    "yas_marina": "ABU"
+  }
+}
