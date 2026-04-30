@@ -1,1 +1,14 @@
-<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg"><path d="M 150 450 L 100 400 L 100 200 L 250 100 L 400 100 L 450 150 L 600 150 L 700 100 L 850 100 L 900 200 L 900 500 L 800 600 L 600 600 L 550 550 L 400 550 L 300 600 L 150 450 Z" fill="none" stroke="var(--accent)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" style="filter: drop-shadow(0 0 10px var(--accent)); opacity: 0.8;"/></svg>
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="AUS track outline">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+  <path d="M 190 510 L 140 430 L 150 310 L 210 220 L 260 140 L 360 120 L 470 150 L 560 110 L 650 120 L 720 180 L 810 220 L 850 320 L 830 430 L 760 520 L 650 560 L 560 520 L 490 470 L 410 500 L 320 560 L 240 570 Z" fill="none" stroke="var(--accent)" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0.9"/>
+  <line x1="153.0" y1="458.0" x2="177.0" y2="482.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <line x1="153.0" y1="482.0" x2="177.0" y2="458.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+</svg>

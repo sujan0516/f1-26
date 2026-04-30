@@ -1,1 +1,14 @@
-<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg"><path d="M 150 450 L 100 400 L 100 200 L 250 100 L 400 100 L 450 150 L 600 150 L 700 100 L 850 100 L 900 200 L 900 500 L 800 600 L 600 600 L 550 550 L 400 550 L 300 600 L 150 450 Z" fill="none" stroke="var(--accent)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" style="filter: drop-shadow(0 0 10px var(--accent)); opacity: 0.8;"/></svg>
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="LVS track outline">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+  <path d="M 170 540 L 130 450 L 150 330 L 240 250 L 360 220 L 500 200 L 650 220 L 780 270 L 850 360 L 840 470 L 760 560 L 630 590 L 500 570 L 390 500 L 290 520 L 220 590 Z" fill="none" stroke="var(--accent)" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0.9"/>
+  <line x1="138.0" y1="483.0" x2="162.0" y2="507.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <line x1="138.0" y1="507.0" x2="162.0" y2="483.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+</svg>

@@ -1,24 +1,254 @@
 {
-  "AUS": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "CHN": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "JPN": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "MIA": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "CAN": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "MON": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "BCN": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "AUT": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "GBR": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "BEL": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "HUN": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "NED": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "ITA": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "MAD": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "AZE": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "SGP": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "USA": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "MEX": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "BRA": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "LVS": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "QAT": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50},
-  "ABU": {"minX": -5500, "maxX": 5500, "minY": -4200, "maxY": 4200, "width": 1000, "height": 700, "pad": 50}
+  "ABU": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "AUS": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "AUT": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "AZE": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "BAH": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "BCN": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "BEL": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "BRA": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "CAN": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "CHN": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "COTA": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "ESP": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "GBR": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "HUN": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "IMO": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "ITA": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "JED": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "JPN": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "LVS": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "MAD": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "MEX": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "MIA": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "MON": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "NED": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "QAT": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "SAU": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "SGP": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  },
+  "USA": {
+    "minX": -5500,
+    "maxX": 5500,
+    "minY": -4200,
+    "maxY": 4200,
+    "width": 1000,
+    "height": 700,
+    "pad": 50
+  }
 }

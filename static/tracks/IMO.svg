@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="IMO track outline">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+  <path d="M 240 540 L 170 460 L 180 330 L 250 220 L 380 170 L 500 180 L 620 140 L 760 200 L 830 320 L 800 430 L 690 510 L 560 550 L 460 520 L 370 470 L 320 550 Z" fill="none" stroke="var(--accent)" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0.9"/>
+  <line x1="193.0" y1="488.0" x2="217.0" y2="512.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <line x1="193.0" y1="512.0" x2="217.0" y2="488.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+</svg>

@@ -1,1 +1,14 @@
-<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg"><path d="M 150 450 L 100 400 L 100 200 L 250 100 L 400 100 L 450 150 L 600 150 L 700 100 L 850 100 L 900 200 L 900 500 L 800 600 L 600 600 L 550 550 L 400 550 L 300 600 L 150 450 Z" fill="none" stroke="var(--accent)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" style="filter: drop-shadow(0 0 10px var(--accent)); opacity: 0.8;"/></svg>
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="NED track outline">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+  <path d="M 300 530 L 230 470 L 220 370 L 290 300 L 400 260 L 500 220 L 610 200 L 730 240 L 800 320 L 780 430 L 690 500 L 560 540 L 460 510 L 390 450 L 350 560 Z" fill="none" stroke="var(--accent)" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0.9"/>
+  <line x1="253.0" y1="488.0" x2="277.0" y2="512.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <line x1="253.0" y1="512.0" x2="277.0" y2="488.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+</svg>

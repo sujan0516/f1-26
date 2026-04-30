@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg" aria-label="BAH track outline">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+  <path d="M 220 470 L 180 380 L 210 250 L 320 170 L 430 150 L 540 180 L 610 230 L 700 220 L 800 260 L 840 360 L 780 460 L 690 520 L 580 500 L 510 450 L 440 490 L 350 540 L 260 520 Z" fill="none" stroke="var(--accent)" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0.9"/>
+  <line x1="188.0" y1="413.0" x2="212.0" y2="437.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <line x1="188.0" y1="437.0" x2="212.0" y2="413.0" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+</svg>
